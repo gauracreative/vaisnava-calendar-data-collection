@@ -1,0 +1,110 @@
+[
+  {
+    "title": "00:00 Greenwich Mean Time: London, Lisbon",
+    "value": "0"
+  },
+  {
+    "title": "+01:00 Amsterdam, Berlin, Rome",
+    "value": "1"
+  },
+  {
+    "title": "+02:00 Athens, Helsinki, Tel Aviv, Vilnius",
+    "value": "2"
+  },
+  {
+    "title": "+03:00 Bagdad, Moscow, Nairobi, Riyadh",
+    "value": "3"
+  },
+  {
+    "title": "+03:30 Teheran",
+    "value": "350"
+  },
+  {
+    "title": "+04:00 Abu Dhabi, Tbilisi, Baku",
+    "value": "4"
+  },
+  {
+    "title": "+05:00 Chelyabinsk, Ekaterinburg, Ufa",
+    "value": "5"
+  },
+  {
+    "title": "+05:30 India",
+    "value": "550"
+  },
+  {
+    "title": "+05:45 Nepal",
+    "value": "575"
+  },
+  {
+    "title": "+06:00 Dhaka, Astana",
+    "value": "6"
+  },
+  {
+    "title": "+07:00 Bangkok, Hanoi",
+    "value": "7"
+  },
+  {
+    "title": "+08:00 Beijing, Kuala Lumpur, Perth, Taipei",
+    "value": "8"
+  },
+  {
+    "title": "+09:00 Seoul, Tokyo",
+    "value": "9"
+  },
+  {
+    "title": "+09:30 Adelaide",
+    "value": "950"
+  },
+  {
+    "title": "+10:00 Brisbane, Hobart, Khabarovsk, Aust",
+    "value": "10"
+  },
+  {
+    "title": "+11:00 Yuzhno-Sakhalinsk",
+    "value": "11"
+  },
+  {
+    "title": "+12:00 Fiji, Marshall Islands, New Zealand",
+    "value": "12"
+  },
+  {
+    "title": "-01:00 Azores",
+    "value": "21"
+  },
+  {
+    "title": "-03:00 Buenos Aires",
+    "value": "23"
+  },
+  {
+    "title": "-03:30 Newfoundland",
+    "value": "2350"
+  },
+  {
+    "title": "-03:45 Berbice",
+    "value": "2375"
+  },
+  {
+    "title": "-04:00 Atlantic, Caracas, Cochabamba, La Paz",
+    "value": "24"
+  },
+  {
+    "title": "-05:00 Eastern",
+    "value": "25"
+  },
+  {
+    "title": "-06:00 Central Time",
+    "value": "26"
+  },
+  {
+    "title": "-07:00 Mountain Time",
+    "value": "27"
+  },
+  {
+    "title": "-08:00 Pacific Time",
+    "value": "28"
+  },
+  {
+    "title": "-10:00 Hawaii",
+    "value": "210"
+  }
+]
