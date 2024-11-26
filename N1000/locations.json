@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Hilo, Hawaii, USA",
+    "coordinates": "155W02 19N45",
+    "timezone": "-10.00",
+    "option": "Hilo, Hawaii, USA             155W02 19N45    -10.00",
+    "file": "hilo_hawaii_usa_155w02_19n45_10_00"
+  },
+  {
+    "title": "Honolulu, Hawaii, USA",
+    "coordinates": "157W59 21N25",
+    "timezone": "-10.00",
+    "option": "Honolulu, Hawaii, USA         157W59 21N25    -10.00",
+    "file": "honolulu_hawaii_usa_157w59_21n25_10_00"
+  }
+]

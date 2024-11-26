@@ -1,0 +1,352 @@
+[
+  {
+    "title": "Alachua, Florida, USA",
+    "coordinates": "082W30 29N48",
+    "timezone": "-5.00",
+    "option": "Alachua, Florida, USA         082W30 29N48     -5.00",
+    "file": "alachua_florida_usa_082w30_29n48_5_00"
+  },
+  {
+    "title": "Arequipa, Peru",
+    "coordinates": "071W33 16S24",
+    "timezone": "-5.00",
+    "option": "Arequipa, Peru                071W33 16S24     -5.00",
+    "file": "arequipa_peru_071w33_16s24_5_00"
+  },
+  {
+    "title": "Atlanta, Georgia, USA",
+    "coordinates": "084W23 33N47",
+    "timezone": "-5.00",
+    "option": "Atlanta, Georgia, USA         084W23 33N47     -5.00",
+    "file": "atlanta_georgia_usa_084w23_33n47_5_00"
+  },
+  {
+    "title": "Baltimore, Maryland, USA",
+    "coordinates": "076W37 39N18",
+    "timezone": "-5.00",
+    "option": "Baltimore, Maryland, USA      076W37 39N18     -5.00",
+    "file": "baltimore_maryland_usa_076w37_39n18_5_00"
+  },
+  {
+    "title": "Bangor, Maine, USA",
+    "coordinates": "068W47 44N48",
+    "timezone": "-5.00",
+    "option": "Bangor, Maine, USA            068W47 44N48     -5.00",
+    "file": "bangor_maine_usa_068w47_44n48_5_00"
+  },
+  {
+    "title": "Bogota, Colombia",
+    "coordinates": "074W03 04N43",
+    "timezone": "-5.00",
+    "option": "Bogota, Colombia              074W03 04N43     -5.00",
+    "file": "bogota_colombia_074w03_04n43_5_00"
+  },
+  {
+    "title": "Boston, Massachusetts, USA",
+    "coordinates": "071W01 42N22",
+    "timezone": "-5.00",
+    "option": "Boston, Massachusetts, USA    071W01 42N22     -5.00",
+    "file": "boston_massachusetts_usa_071w01_42n22_5_00"
+  },
+  {
+    "title": "Cali, Colombia",
+    "coordinates": "076W36 03N25",
+    "timezone": "-5.00",
+    "option": "Cali, Colombia                076W36 03N25     -5.00",
+    "file": "cali_colombia_076w36_03n25_5_00"
+  },
+  {
+    "title": "Chapel Hill, NC, USA",
+    "coordinates": "079W01 35N50",
+    "timezone": "-5.00",
+    "option": "Chapel Hill, NC, USA          079W01 35N50     -5.00",
+    "file": "chapel_hill_nc_usa_079w01_35n50_5_00"
+  },
+  {
+    "title": "Charleston, SC, USA",
+    "coordinates": "079W57 32N45",
+    "timezone": "-5.00",
+    "option": "Charleston, SC, USA           079W57 32N45     -5.00",
+    "file": "charleston_sc_usa_079w57_32n45_5_00"
+  },
+  {
+    "title": "Cleveland, Ohio, USA",
+    "coordinates": "081W35 41N30",
+    "timezone": "-5.00",
+    "option": "Cleveland, Ohio, USA          081W35 41N30     -5.00",
+    "file": "cleveland_ohio_usa_081w35_41n30_5_00"
+  },
+  {
+    "title": "Columbia, South Carolina, USA",
+    "coordinates": "081W02 34N00",
+    "timezone": "-5.00",
+    "option": "Columbia, South Carolina, USA 081W02 34N00     -5.00",
+    "file": "columbia_south_carolina_usa_081w02_34n00_5_00"
+  },
+  {
+    "title": "Columbus, Ohio, USA",
+    "coordinates": "082W59 39N57",
+    "timezone": "-5.00",
+    "option": "Columbus, Ohio, USA           082W59 39N57     -5.00",
+    "file": "columbus_ohio_usa_082w59_39n57_5_00"
+  },
+  {
+    "title": "Cuenca, Ecuador",
+    "coordinates": "079W02 02S50",
+    "timezone": "-5.00",
+    "option": "Cuenca, Ecuador               079W02 02S50     -5.00",
+    "file": "cuenca_ecuador_079w02_02s50_5_00"
+  },
+  {
+    "title": "Cuzco, Peru",
+    "coordinates": "071W59 13S31",
+    "timezone": "-5.00",
+    "option": "Cuzco, Peru                   071W59 13S31     -5.00",
+    "file": "cuzco_peru_071w59_13s31_5_00"
+  },
+  {
+    "title": "Detroit, Michigan, USA",
+    "coordinates": "083W05 42N20",
+    "timezone": "-5.00",
+    "option": "Detroit, Michigan, USA        083W05 42N20     -5.00",
+    "file": "detroit_michigan_usa_083w05_42n20_5_00"
+  },
+  {
+    "title": "Durham, North Carolina, USA",
+    "coordinates": "078W48 35N59",
+    "timezone": "-5.00",
+    "option": "Durham, North Carolina, USA   078W48 35N59     -5.00",
+    "file": "durham_north_carolina_usa_078w48_35n59_5_00"
+  },
+  {
+    "title": "Ellenville, New York, USA",
+    "coordinates": "074W24 41N43",
+    "timezone": "-5.00",
+    "option": "Ellenville, New York, USA     074W24 41N43     -5.00",
+    "file": "ellenville_new_york_usa_074w24_41n43_5_00"
+  },
+  {
+    "title": "Gainesville, Florida, USA",
+    "coordinates": "082W20 29N36",
+    "timezone": "-5.00",
+    "option": "Gainesville, Florida, USA     082W20 29N36     -5.00",
+    "file": "gainesville_florida_usa_082w20_29n36_5_00"
+  },
+  {
+    "title": "Guayaquil, Ecuador",
+    "coordinates": "080W00 02S02",
+    "timezone": "-5.00",
+    "option": "Guayaquil, Ecuador            080W00 02S02     -5.00",
+    "file": "guayaquil_ecuador_080w00_02s02_5_00"
+  },
+  {
+    "title": "Harrisburg, PA, USA",
+    "coordinates": "076W53 40N15",
+    "timezone": "-5.00",
+    "option": "Harrisburg, PA, USA           076W53 40N15     -5.00",
+    "file": "harrisburg_pa_usa_076w53_40n15_5_00"
+  },
+  {
+    "title": "Hartford, Connecticut, USA",
+    "coordinates": "072W42 41N47",
+    "timezone": "-5.00",
+    "option": "Hartford, Connecticut, USA    072W42 41N47     -5.00",
+    "file": "hartford_connecticut_usa_072w42_41n47_5_00"
+  },
+  {
+    "title": "Indianapolis, Indiana, USA",
+    "coordinates": "086W09 39N46",
+    "timezone": "-5.00",
+    "option": "Indianapolis, Indiana, USA    086W09 39N46     -5.00",
+    "file": "indianapolis_indiana_usa_086w09_39n46_5_00"
+  },
+  {
+    "title": "La Habana, Cuba",
+    "coordinates": "082W22 23N08",
+    "timezone": "-5.00",
+    "option": "La Habana, Cuba               082W22 23N08     -5.00",
+    "file": "la_habana_cuba_082w22_23n08_5_00"
+  },
+  {
+    "title": "Lansing, Michigan, USA",
+    "coordinates": "084W31 42N48",
+    "timezone": "-5.00",
+    "option": "Lansing, Michigan, USA        084W31 42N48     -5.00",
+    "file": "lansing_michigan_usa_084w31_42n48_5_00"
+  },
+  {
+    "title": "Lima, Peru",
+    "coordinates": "077W03 12S03",
+    "timezone": "-5.00",
+    "option": "Lima, Peru                    077W03 12S03     -5.00",
+    "file": "lima_peru_077w03_12s03_5_00"
+  },
+  {
+    "title": "Louisville, Kentucky, USA",
+    "coordinates": "085W46 38N15",
+    "timezone": "-5.00",
+    "option": "Louisville, Kentucky, USA     085W46 38N15     -5.00",
+    "file": "louisville_kentucky_usa_085w46_38n15_5_00"
+  },
+  {
+    "title": "Miami, Florida, USA",
+    "coordinates": "080W15 25N47",
+    "timezone": "-5.00",
+    "option": "Miami, Florida, USA           080W15 25N47     -5.00",
+    "file": "miami_florida_usa_080w15_25n47_5_00"
+  },
+  {
+    "title": "Montpelier, Vermont, USA",
+    "coordinates": "072W35 44N16",
+    "timezone": "-5.00",
+    "option": "Montpelier, Vermont, USA      072W35 44N16     -5.00",
+    "file": "montpelier_vermont_usa_072w35_44n16_5_00"
+  },
+  {
+    "title": "Montreal, Quebec, Canada",
+    "coordinates": "073W32 45N34",
+    "timezone": "-5.00",
+    "option": "Montreal, Quebec, Canada      073W32 45N34     -5.00",
+    "file": "montreal_quebec_canada_073w32_45n34_5_00"
+  },
+  {
+    "title": "Morristown, New Jersey, USA",
+    "coordinates": "074W30 40N48",
+    "timezone": "-5.00",
+    "option": "Morristown, New Jersey, USA   074W30 40N48     -5.00",
+    "file": "morristown_new_jersey_usa_074w30_40n48_5_00"
+  },
+  {
+    "title": "Moundsville, WV, USA",
+    "coordinates": "080W43 39N53",
+    "timezone": "-5.00",
+    "option": "Moundsville, WV, USA          080W43 39N53     -5.00",
+    "file": "moundsville_wv_usa_080w43_39n53_5_00"
+  },
+  {
+    "title": "New Vrindaban, WV, USA",
+    "coordinates": "080W37 39N56",
+    "timezone": "-5.00",
+    "option": "New Vrindaban, WV, USA        080W37 39N56     -5.00",
+    "file": "new_vrindaban_wv_usa_080w37_39n56_5_00"
+  },
+  {
+    "title": "New York, New York, USA",
+    "coordinates": "073W55 40N44",
+    "timezone": "-5.00",
+    "option": "New York, New York, USA       073W55 40N44     -5.00",
+    "file": "new_york_new_york_usa_073w55_40n44_5_00"
+  },
+  {
+    "title": "Orlando, Florida, USA",
+    "coordinates": "081W23 28N32",
+    "timezone": "-5.00",
+    "option": "Orlando, Florida, USA         081W23 28N32     -5.00",
+    "file": "orlando_florida_usa_081w23_28n32_5_00"
+  },
+  {
+    "title": "Ottawa, Ontario, Canada",
+    "coordinates": "075W47 45N23",
+    "timezone": "-5.00",
+    "option": "Ottawa, Ontario, Canada       075W47 45N23     -5.00",
+    "file": "ottawa_ontario_canada_075w47_45n23_5_00"
+  },
+  {
+    "title": "Panama, Panama",
+    "coordinates": "079W31 08N58",
+    "timezone": "-5.00",
+    "option": "Panama, Panama                079W31 08N58     -5.00",
+    "file": "panama_panama_079w31_08n58_5_00"
+  },
+  {
+    "title": "Pereira, Colombia",
+    "coordinates": "075W50 04N58",
+    "timezone": "-5.00",
+    "option": "Pereira, Colombia             075W50 04N58     -5.00",
+    "file": "pereira_colombia_075w50_04n58_5_00"
+  },
+  {
+    "title": "Philadelphia, PA, USA",
+    "coordinates": "075W07 39N57",
+    "timezone": "-5.00",
+    "option": "Philadelphia, PA, USA         075W07 39N57     -5.00",
+    "file": "philadelphia_pa_usa_075w07_39n57_5_00"
+  },
+  {
+    "title": "Pittsburgh, PA, USA",
+    "coordinates": "079W57 40N20",
+    "timezone": "-5.00",
+    "option": "Pittsburgh, PA, USA           079W57 40N20     -5.00",
+    "file": "pittsburgh_pa_usa_079w57_40n20_5_00"
+  },
+  {
+    "title": "Quebec, Canada",
+    "coordinates": "071W19 46N50",
+    "timezone": "-5.00",
+    "option": "Quebec, Canada                071W19 46N50     -5.00",
+    "file": "quebec_canada_071w19_46n50_5_00"
+  },
+  {
+    "title": "Quito, Ecuador",
+    "coordinates": "078W35 00S12",
+    "timezone": "-5.00",
+    "option": "Quito, Ecuador                078W35 00S12     -5.00",
+    "file": "quito_ecuador_078w35_00s12_5_00"
+  },
+  {
+    "title": "Reading, Pennsylvania, USA",
+    "coordinates": "075W56 40N20",
+    "timezone": "-5.00",
+    "option": "Reading, Pennsylvania, USA    075W56 40N20     -5.00",
+    "file": "reading_pennsylvania_usa_075w56_40n20_5_00"
+  },
+  {
+    "title": "Rual Estates, Florida, USA",
+    "coordinates": "081W32 26N20",
+    "timezone": "-5.00",
+    "option": "Rual Estates, Florida, USA    081W32 26N20     -5.00",
+    "file": "rual_estates_florida_usa_081w32_26n20_5_00"
+  },
+  {
+    "title": "Salcabamba, Peru",
+    "coordinates": "074W50 12S18",
+    "timezone": "-5.00",
+    "option": "Salcabamba, Peru              074W50 12S18     -5.00",
+    "file": "salcabamba_peru_074w50_12s18_5_00"
+  },
+  {
+    "title": "Tallahassee, Florida, USA",
+    "coordinates": "084W18 30N23",
+    "timezone": "-5.00",
+    "option": "Tallahassee, Florida, USA     084W18 30N23     -5.00",
+    "file": "tallahassee_florida_usa_084w18_30n23_5_00"
+  },
+  {
+    "title": "Tampa, Florida, USA",
+    "coordinates": "082W29 27N59",
+    "timezone": "-5.00",
+    "option": "Tampa, Florida, USA           082W29 27N59     -5.00",
+    "file": "tampa_florida_usa_082w29_27n59_5_00"
+  },
+  {
+    "title": "Toronto, Ontario, Canada",
+    "coordinates": "079W27 43N47",
+    "timezone": "-5.00",
+    "option": "Toronto, Ontario, Canada      079W27 43N47     -5.00",
+    "file": "toronto_ontario_canada_079w27_43n47_5_00"
+  },
+  {
+    "title": "Washington, D.C., USA",
+    "coordinates": "077W04 38N54",
+    "timezone": "-5.00",
+    "option": "Washington, D.C., USA         077W04 38N54     -5.00",
+    "file": "washington_d_c_usa_077w04_38n54_5_00"
+  },
+  {
+    "title": "Winston-Salem, NC, USA",
+    "coordinates": "080W15 36N07",
+    "timezone": "-5.00",
+    "option": "Winston-Salem, NC, USA        080W15 36N07     -5.00",
+    "file": "winston_salem_nc_usa_080w15_36n07_5_00"
+  }
+]

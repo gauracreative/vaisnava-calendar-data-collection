@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Alma-Ata, Kazakhstan",
+    "coordinates": "076E50 43N40",
+    "timezone": "+6.00",
+    "option": "Alma-Ata, Kazakhstan          076E50 43N40     +6.00",
+    "file": "alma_ata_kazakhstan_076e50_43n40_6_00"
+  },
+  {
+    "title": "Cittagong, Bangladesh",
+    "coordinates": "091E50 22N20",
+    "timezone": "+6.00",
+    "option": "Cittagong, Bangladesh         091E50 22N20     +6.00",
+    "file": "cittagong_bangladesh_091e50_22n20_6_00"
+  },
+  {
+    "title": "Dhaka, Bangladesh",
+    "coordinates": "090E27 23N44",
+    "timezone": "+6.00",
+    "option": "Dhaka, Bangladesh             090E27 23N44     +6.00",
+    "file": "dhaka_bangladesh_090e27_23n44_6_00"
+  },
+  {
+    "title": "Jessore, Bangladesh",
+    "coordinates": "089E12 23N10",
+    "timezone": "+6.00",
+    "option": "Jessore, Bangladesh           089E12 23N10     +6.00",
+    "file": "jessore_bangladesh_089e12_23n10_6_00"
+  },
+  {
+    "title": "Omsk, Russia",
+    "coordinates": "073E24 55N00",
+    "timezone": "+6.00",
+    "option": "Omsk, Russia                  073E24 55N00     +6.00",
+    "file": "omsk_russia_073e24_55n00_6_00"
+  }
+]

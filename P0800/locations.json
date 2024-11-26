@@ -1,0 +1,212 @@
+[
+  {
+    "title": "Bali, Indonesia",
+    "coordinates": "115E00 08S30",
+    "timezone": "+8.00",
+    "option": "Bali, Indonesia               115E00 08S30     +8.00",
+    "file": "bali_indonesia_115e00_08s30_8_00"
+  },
+  {
+    "title": "Beijing, China",
+    "coordinates": "116E22 39N55",
+    "timezone": "+8.00",
+    "option": "Beijing, China                116E22 39N55     +8.00",
+    "file": "beijing_china_116e22_39n55_8_00"
+  },
+  {
+    "title": "Bratsk, Russia",
+    "coordinates": "101E37 56N08",
+    "timezone": "+8.00",
+    "option": "Bratsk, Russia                101E37 56N08     +8.00",
+    "file": "bratsk_russia_101e37_56n08_8_00"
+  },
+  {
+    "title": "Bukit Mertajam, Malaysia",
+    "coordinates": "100E12 05N18",
+    "timezone": "+8.00",
+    "option": "Bukit Mertajam, Malaysia      100E12 05N18     +8.00",
+    "file": "bukit_mertajam_malaysia_100e12_05n18_8_00"
+  },
+  {
+    "title": "Cagayan, Philippines",
+    "coordinates": "124E40 08N24",
+    "timezone": "+8.00",
+    "option": "Cagayan, Philippines          124E40 08N24     +8.00",
+    "file": "cagayan_philippines_124e40_08n24_8_00"
+  },
+  {
+    "title": "Cebu, Philippines",
+    "coordinates": "123E54 10N18",
+    "timezone": "+8.00",
+    "option": "Cebu, Philippines             123E54 10N18     +8.00",
+    "file": "cebu_philippines_123e54_10n18_8_00"
+  },
+  {
+    "title": "Changsha, China",
+    "coordinates": "112E23 26N43",
+    "timezone": "+8.00",
+    "option": "Changsha, China               112E23 26N43     +8.00",
+    "file": "changsha_china_112e23_26n43_8_00"
+  },
+  {
+    "title": "Chengdu, China",
+    "coordinates": "104E04 30N40",
+    "timezone": "+8.00",
+    "option": "Chengdu, China                104E04 30N40     +8.00",
+    "file": "chengdu_china_104e04_30n40_8_00"
+  },
+  {
+    "title": "Denpasar, Indonesia",
+    "coordinates": "115E05 08S45",
+    "timezone": "+8.00",
+    "option": "Denpasar, Indonesia           115E05 08S45     +8.00",
+    "file": "denpasar_indonesia_115e05_08s45_8_00"
+  },
+  {
+    "title": "Hangzhou, China",
+    "coordinates": "120E10 30N15",
+    "timezone": "+8.00",
+    "option": "Hangzhou, China               120E10 30N15     +8.00",
+    "file": "hangzhou_china_120e10_30n15_8_00"
+  },
+  {
+    "title": "Harbin, China",
+    "coordinates": "126E40 45N48",
+    "timezone": "+8.00",
+    "option": "Harbin, China                 126E40 45N48     +8.00",
+    "file": "harbin_china_126e40_45n48_8_00"
+  },
+  {
+    "title": "Hong Kong, China",
+    "coordinates": "114E10 22N15",
+    "timezone": "+8.00",
+    "option": "Hong Kong, China              114E10 22N15     +8.00",
+    "file": "hong_kong_china_114e10_22n15_8_00"
+  },
+  {
+    "title": "Hualien, Taiwan",
+    "coordinates": "121E36 23N59",
+    "timezone": "+8.00",
+    "option": "Hualien, Taiwan               121E36 23N59     +8.00",
+    "file": "hualien_taiwan_121e36_23n59_8_00"
+  },
+  {
+    "title": "Iloilo, Philippines",
+    "coordinates": "122E30 10N40",
+    "timezone": "+8.00",
+    "option": "Iloilo, Philippines           122E30 10N40     +8.00",
+    "file": "iloilo_philippines_122e30_10n40_8_00"
+  },
+  {
+    "title": "Ipoh, Malaysia",
+    "coordinates": "101E04 04N38",
+    "timezone": "+8.00",
+    "option": "Ipoh, Malaysia                101E04 04N38     +8.00",
+    "file": "ipoh_malaysia_101e04_04n38_8_00"
+  },
+  {
+    "title": "Irkutsk, Russia",
+    "coordinates": "104E20 52N16",
+    "timezone": "+8.00",
+    "option": "Irkutsk, Russia               104E20 52N16     +8.00",
+    "file": "irkutsk_russia_104e20_52n16_8_00"
+  },
+  {
+    "title": "Jiamusi, China",
+    "coordinates": "130E21 46N50",
+    "timezone": "+8.00",
+    "option": "Jiamusi, China                130E21 46N50     +8.00",
+    "file": "jiamusi_china_130e21_46n50_8_00"
+  },
+  {
+    "title": "Kuala Lumpur, Malaysia",
+    "coordinates": "101E42 03N10",
+    "timezone": "+8.00",
+    "option": "Kuala Lumpur, Malaysia        101E42 03N10     +8.00",
+    "file": "kuala_lumpur_malaysia_101e42_03n10_8_00"
+  },
+  {
+    "title": "Manila, Philippines",
+    "coordinates": "121E00 14N35",
+    "timezone": "+8.00",
+    "option": "Manila, Philippines           121E00 14N35     +8.00",
+    "file": "manila_philippines_121e00_14n35_8_00"
+  },
+  {
+    "title": "Mudanjiang, China",
+    "coordinates": "129E36 44N35",
+    "timezone": "+8.00",
+    "option": "Mudanjiang, China             129E36 44N35     +8.00",
+    "file": "mudanjiang_china_129e36_44n35_8_00"
+  },
+  {
+    "title": "Nanning, China",
+    "coordinates": "108E19 22N49",
+    "timezone": "+8.00",
+    "option": "Nanning, China                108E19 22N49     +8.00",
+    "file": "nanning_china_108e19_22n49_8_00"
+  },
+  {
+    "title": "Perak, Malaysia",
+    "coordinates": "101E00 05N00",
+    "timezone": "+8.00",
+    "option": "Perak, Malaysia               101E00 05N00     +8.00",
+    "file": "perak_malaysia_101e00_05n00_8_00"
+  },
+  {
+    "title": "Perth, Australia",
+    "coordinates": "115E50 31S56",
+    "timezone": "+8.00",
+    "option": "Perth, Australia              115E50 31S56     +8.00",
+    "file": "perth_australia_115e50_31s56_8_00"
+  },
+  {
+    "title": "Shanghai, China",
+    "coordinates": "121E29 31N14",
+    "timezone": "+8.00",
+    "option": "Shanghai, China               121E29 31N14     +8.00",
+    "file": "shanghai_china_121e29_31n14_8_00"
+  },
+  {
+    "title": "Singapore",
+    "coordinates": "103E51 01N17",
+    "timezone": "+8.00",
+    "option": "Singapore                     103E51 01N17     +8.00",
+    "file": "singapore_103e51_01n17_8_00"
+  },
+  {
+    "title": "Taipei, Taiwan",
+    "coordinates": "121E30 25N03",
+    "timezone": "+8.00",
+    "option": "Taipei, Taiwan                121E30 25N03     +8.00",
+    "file": "taipei_taiwan_121e30_25n03_8_00"
+  },
+  {
+    "title": "Ulan-Ude, Russia",
+    "coordinates": "107E37 51N50",
+    "timezone": "+8.00",
+    "option": "Ulan-Ude, Russia              107E37 51N50     +8.00",
+    "file": "ulan_ude_russia_107e37_51n50_8_00"
+  },
+  {
+    "title": "Xian, Shaanxi, China",
+    "coordinates": "108E56 34N15",
+    "timezone": "+8.00",
+    "option": "Xian, Shaanxi, China          108E56 34N15     +8.00",
+    "file": "xian_shaanxi_china_108e56_34n15_8_00"
+  },
+  {
+    "title": "Xi'an, China",
+    "coordinates": "108E56 34N15",
+    "timezone": "+8.00",
+    "option": "Xi'an, China                  108E56 34N15     +8.00",
+    "file": "xi_an_china_108e56_34n15_8_00"
+  },
+  {
+    "title": "Zhangjaikou, China",
+    "coordinates": "114E53 40N49",
+    "timezone": "+8.00",
+    "option": "Zhangjaikou, China            114E53 40N49     +8.00",
+    "file": "zhangjaikou_china_114e53_40n49_8_00"
+  }
+]

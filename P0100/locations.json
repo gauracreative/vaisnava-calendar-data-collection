@@ -1,0 +1,1038 @@
+[
+  {
+    "title": "Abeokuta, Nigeria",
+    "coordinates": "003E21 07N09",
+    "timezone": "+1.00",
+    "option": "Abeokuta, Nigeria             003E21 07N09     +1.00",
+    "file": "abeokuta_nigeria_003e21_07n09_1_00"
+  },
+  {
+    "title": "Alicante, Spain",
+    "coordinates": "000W29 38N21",
+    "timezone": "+1.00",
+    "option": "Alicante, Spain               000W29 38N21     +1.00",
+    "file": "alicante_spain_000w29_38n21_1_00"
+  },
+  {
+    "title": "Amsterdam, Netherlands",
+    "coordinates": "004E57 52N22",
+    "timezone": "+1.00",
+    "option": "Amsterdam, Netherlands        004E57 52N22     +1.00",
+    "file": "amsterdam_netherlands_004e57_52n22_1_00"
+  },
+  {
+    "title": "Antwerp, Belgium",
+    "coordinates": "004E25 51N14",
+    "timezone": "+1.00",
+    "option": "Antwerp, Belgium              004E25 51N14     +1.00",
+    "file": "antwerp_belgium_004e25_51n14_1_00"
+  },
+  {
+    "title": "Avesta, Sweden",
+    "coordinates": "016E08 60N08",
+    "timezone": "+1.00",
+    "option": "Avesta, Sweden                016E08 60N08     +1.00",
+    "file": "avesta_sweden_016e08_60n08_1_00"
+  },
+  {
+    "title": "Avignon, France",
+    "coordinates": "004E49 43N57",
+    "timezone": "+1.00",
+    "option": "Avignon, France               004E49 43N57     +1.00",
+    "file": "avignon_france_004e49_43n57_1_00"
+  },
+  {
+    "title": "Avila, Spain",
+    "coordinates": "004W42 40N39",
+    "timezone": "+1.00",
+    "option": "Avila, Spain                  004W42 40N39     +1.00",
+    "file": "avila_spain_004w42_40n39_1_00"
+  },
+  {
+    "title": "Barcelona, Spain",
+    "coordinates": "002E10 41N21",
+    "timezone": "+1.00",
+    "option": "Barcelona, Spain              002E10 41N21     +1.00",
+    "file": "barcelona_spain_002e10_41n21_1_00"
+  },
+  {
+    "title": "Basel, Switzerland",
+    "coordinates": "007E34 47N33",
+    "timezone": "+1.00",
+    "option": "Basel, Switzerland            007E34 47N33     +1.00",
+    "file": "basel_switzerland_007e34_47n33_1_00"
+  },
+  {
+    "title": "Belgrade, Serbia",
+    "coordinates": "020E30 44N49",
+    "timezone": "+1.00",
+    "option": "Belgrade, Serbia              020E30 44N49     +1.00",
+    "file": "belgrade_serbia_020e30_44n49_1_00"
+  },
+  {
+    "title": "Benin City, Nigeria",
+    "coordinates": "005E40 06N18",
+    "timezone": "+1.00",
+    "option": "Benin City, Nigeria           005E40 06N18     +1.00",
+    "file": "benin_city_nigeria_005e40_06n18_1_00"
+  },
+  {
+    "title": "Bergamo, Italy",
+    "coordinates": "009E39 45N43",
+    "timezone": "+1.00",
+    "option": "Bergamo, Italy                009E39 45N43     +1.00",
+    "file": "bergamo_italy_009e39_45n43_1_00"
+  },
+  {
+    "title": "Bergen, Norway",
+    "coordinates": "005E20 60N22",
+    "timezone": "+1.00",
+    "option": "Bergen, Norway                005E20 60N22     +1.00",
+    "file": "bergen_norway_005e20_60n22_1_00"
+  },
+  {
+    "title": "Berlin, Germany",
+    "coordinates": "013E21 52N33",
+    "timezone": "+1.00",
+    "option": "Berlin, Germany               013E21 52N33     +1.00",
+    "file": "berlin_germany_013e21_52n33_1_00"
+  },
+  {
+    "title": "Bern, Switzerland",
+    "coordinates": "007E28 46N57",
+    "timezone": "+1.00",
+    "option": "Bern, Switzerland             007E28 46N57     +1.00",
+    "file": "bern_switzerland_007e28_46n57_1_00"
+  },
+  {
+    "title": "Bologna, Italy",
+    "coordinates": "011E22 44N30",
+    "timezone": "+1.00",
+    "option": "Bologna, Italy                011E22 44N30     +1.00",
+    "file": "bologna_italy_011e22_44n30_1_00"
+  },
+  {
+    "title": "Bordeaux, France",
+    "coordinates": "000W38 44N51",
+    "timezone": "+1.00",
+    "option": "Bordeaux, France              000W38 44N51     +1.00",
+    "file": "bordeaux_france_000w38_44n51_1_00"
+  },
+  {
+    "title": "Bratislava, Slovak Republic",
+    "coordinates": "017E08 48N09",
+    "timezone": "+1.00",
+    "option": "Bratislava, Slovak Republic   017E08 48N09     +1.00",
+    "file": "bratislava_slovak_republic_017e08_48n09_1_00"
+  },
+  {
+    "title": "Bremerhaven, Germany",
+    "coordinates": "008E34 53N34",
+    "timezone": "+1.00",
+    "option": "Bremerhaven, Germany          008E34 53N34     +1.00",
+    "file": "bremerhaven_germany_008e34_53n34_1_00"
+  },
+  {
+    "title": "Brest, France",
+    "coordinates": "004W31 48N23",
+    "timezone": "+1.00",
+    "option": "Brest, France                 004W31 48N23     +1.00",
+    "file": "brest_france_004w31_48n23_1_00"
+  },
+  {
+    "title": "Brihuega, Spain",
+    "coordinates": "002W52 40N45",
+    "timezone": "+1.00",
+    "option": "Brihuega, Spain               002W52 40N45     +1.00",
+    "file": "brihuega_spain_002w52_40n45_1_00"
+  },
+  {
+    "title": "Brorup, Denmark",
+    "coordinates": "009E01 55N29",
+    "timezone": "+1.00",
+    "option": "Brorup, Denmark               009E01 55N29     +1.00",
+    "file": "brorup_denmark_009e01_55n29_1_00"
+  },
+  {
+    "title": "Brussels (Bruxelles), Belgium",
+    "coordinates": "004E24 50N49",
+    "timezone": "+1.00",
+    "option": "Brussels (Bruxelles), Belgium 004E24 50N49     +1.00",
+    "file": "brussels_bruxelles_belgium_004e24_50n49_1_00"
+  },
+  {
+    "title": "Budapest, Hungary",
+    "coordinates": "019E07 47N28",
+    "timezone": "+1.00",
+    "option": "Budapest, Hungary             019E07 47N28     +1.00",
+    "file": "budapest_hungary_019e07_47n28_1_00"
+  },
+  {
+    "title": "Buea, Cameroon",
+    "coordinates": "009E14 04N09",
+    "timezone": "+1.00",
+    "option": "Buea, Cameroon                009E14 04N09     +1.00",
+    "file": "buea_cameroon_009e14_04n09_1_00"
+  },
+  {
+    "title": "Cagliari, Italy",
+    "coordinates": "009E07 39N13",
+    "timezone": "+1.00",
+    "option": "Cagliari, Italy               009E07 39N13     +1.00",
+    "file": "cagliari_italy_009e07_39n13_1_00"
+  },
+  {
+    "title": "Catania, Italy",
+    "coordinates": "015E08 37N30",
+    "timezone": "+1.00",
+    "option": "Catania, Italy                015E08 37N30     +1.00",
+    "file": "catania_italy_015e08_37n30_1_00"
+  },
+  {
+    "title": "Chateauroux, France",
+    "coordinates": "001E41 46N49",
+    "timezone": "+1.00",
+    "option": "Chateauroux, France           001E41 46N49     +1.00",
+    "file": "chateauroux_france_001e41_46n49_1_00"
+  },
+  {
+    "title": "Copenhagen, Denmark",
+    "coordinates": "012E34 55N43",
+    "timezone": "+1.00",
+    "option": "Copenhagen, Denmark           012E34 55N43     +1.00",
+    "file": "copenhagen_denmark_012e34_55n43_1_00"
+  },
+  {
+    "title": "Debrecen, Hungary",
+    "coordinates": "021E39 47N33",
+    "timezone": "+1.00",
+    "option": "Debrecen, Hungary             021E39 47N33     +1.00",
+    "file": "debrecen_hungary_021e39_47n33_1_00"
+  },
+  {
+    "title": "Dijon, France",
+    "coordinates": "005E01 47N21",
+    "timezone": "+1.00",
+    "option": "Dijon, France                 005E01 47N21     +1.00",
+    "file": "dijon_france_005e01_47n21_1_00"
+  },
+  {
+    "title": "Dole, France",
+    "coordinates": "005E29 47N08",
+    "timezone": "+1.00",
+    "option": "Dole, France                  005E29 47N08     +1.00",
+    "file": "dole_france_005e29_47n08_1_00"
+  },
+  {
+    "title": "Dresden, Germany",
+    "coordinates": "013E42 51N04",
+    "timezone": "+1.00",
+    "option": "Dresden, Germany              013E42 51N04     +1.00",
+    "file": "dresden_germany_013e42_51n04_1_00"
+  },
+  {
+    "title": "Dudingen, Switzerland",
+    "coordinates": "007E12 46N51",
+    "timezone": "+1.00",
+    "option": "Dudingen, Switzerland         007E12 46N51     +1.00",
+    "file": "dudingen_switzerland_007e12_46n51_1_00"
+  },
+  {
+    "title": "Durbuy, Belgium",
+    "coordinates": "005E28 50N21",
+    "timezone": "+1.00",
+    "option": "Durbuy, Belgium               005E28 50N21     +1.00",
+    "file": "durbuy_belgium_005e28_50n21_1_00"
+  },
+  {
+    "title": "Enugu, Nigeria",
+    "coordinates": "007E28 06N28",
+    "timezone": "+1.00",
+    "option": "Enugu, Nigeria                007E28 06N28     +1.00",
+    "file": "enugu_nigeria_007e28_06n28_1_00"
+  },
+  {
+    "title": "Firenze (Florence), Italy",
+    "coordinates": "011E16 43N47",
+    "timezone": "+1.00",
+    "option": "Firenze (Florence), Italy     011E16 43N47     +1.00",
+    "file": "firenze_florence_italy_011e16_43n47_1_00"
+  },
+  {
+    "title": "Flensburg, Germany",
+    "coordinates": "009E24 54N48",
+    "timezone": "+1.00",
+    "option": "Flensburg, Germany            009E24 54N48     +1.00",
+    "file": "flensburg_germany_009e24_54n48_1_00"
+  },
+  {
+    "title": "Florence (Firenze), Italy",
+    "coordinates": "011E16 43N47",
+    "timezone": "+1.00",
+    "option": "Florence (Firenze), Italy     011E16 43N47     +1.00",
+    "file": "florence_firenze_italy_011e16_43n47_1_00"
+  },
+  {
+    "title": "Frankfurt, Germany",
+    "coordinates": "008E40 50N07",
+    "timezone": "+1.00",
+    "option": "Frankfurt, Germany            008E40 50N07     +1.00",
+    "file": "frankfurt_germany_008e40_50n07_1_00"
+  },
+  {
+    "title": "Gallivare, Sweden",
+    "coordinates": "020E40 67N06",
+    "timezone": "+1.00",
+    "option": "Gallivare, Sweden             020E40 67N06     +1.00",
+    "file": "gallivare_sweden_020e40_67n06_1_00"
+  },
+  {
+    "title": "Gdansk, Poland",
+    "coordinates": "018E38 54N21",
+    "timezone": "+1.00",
+    "option": "Gdansk, Poland                018E38 54N21     +1.00",
+    "file": "gdansk_poland_018e38_54n21_1_00"
+  },
+  {
+    "title": "Geneva, Switzerland",
+    "coordinates": "006E09 46N12",
+    "timezone": "+1.00",
+    "option": "Geneva, Switzerland           006E09 46N12     +1.00",
+    "file": "geneva_switzerland_006e09_46n12_1_00"
+  },
+  {
+    "title": "Gothenburg, Sweden",
+    "coordinates": "012E00 57N45",
+    "timezone": "+1.00",
+    "option": "Gothenburg, Sweden            012E00 57N45     +1.00",
+    "file": "gothenburg_sweden_012e00_57n45_1_00"
+  },
+  {
+    "title": "Granada, Spain",
+    "coordinates": "003W41 37N13",
+    "timezone": "+1.00",
+    "option": "Granada, Spain                003W41 37N13     +1.00",
+    "file": "granada_spain_003w41_37n13_1_00"
+  },
+  {
+    "title": "Graz, Austria",
+    "coordinates": "015E24 47N06",
+    "timezone": "+1.00",
+    "option": "Graz, Austria                 015E24 47N06     +1.00",
+    "file": "graz_austria_015e24_47n06_1_00"
+  },
+  {
+    "title": "Guadalajara, Spain",
+    "coordinates": "003W09 40N38",
+    "timezone": "+1.00",
+    "option": "Guadalajara, Spain            003W09 40N38     +1.00",
+    "file": "guadalajara_spain_003w09_40n38_1_00"
+  },
+  {
+    "title": "Hamburg, Germany",
+    "coordinates": "010E00 53N34",
+    "timezone": "+1.00",
+    "option": "Hamburg, Germany              010E00 53N34     +1.00",
+    "file": "hamburg_germany_010e00_53n34_1_00"
+  },
+  {
+    "title": "Hannover, Germany",
+    "coordinates": "009E43 52N24",
+    "timezone": "+1.00",
+    "option": "Hannover, Germany             009E43 52N24     +1.00",
+    "file": "hannover_germany_009e43_52n24_1_00"
+  },
+  {
+    "title": "Haparanda, Sweden",
+    "coordinates": "024E05 65N51",
+    "timezone": "+1.00",
+    "option": "Haparanda, Sweden             024E05 65N51     +1.00",
+    "file": "haparanda_sweden_024e05_65n51_1_00"
+  },
+  {
+    "title": "Heidelberg, Germany",
+    "coordinates": "008E42 49N25",
+    "timezone": "+1.00",
+    "option": "Heidelberg, Germany           008E42 49N25     +1.00",
+    "file": "heidelberg_germany_008e42_49n25_1_00"
+  },
+  {
+    "title": "Heilbronn, Germany",
+    "coordinates": "009E13 49N08",
+    "timezone": "+1.00",
+    "option": "Heilbronn, Germany            009E13 49N08     +1.00",
+    "file": "heilbronn_germany_009e13_49n08_1_00"
+  },
+  {
+    "title": "Horby, Sweden",
+    "coordinates": "013E38 55N52",
+    "timezone": "+1.00",
+    "option": "Horby, Sweden                 013E38 55N52     +1.00",
+    "file": "horby_sweden_013e38_55n52_1_00"
+  },
+  {
+    "title": "Ibadan, Nigeria",
+    "coordinates": "003E50 07N10",
+    "timezone": "+1.00",
+    "option": "Ibadan, Nigeria               003E50 07N10     +1.00",
+    "file": "ibadan_nigeria_003e50_07n10_1_00"
+  },
+  {
+    "title": "Jonkoping, Sweden",
+    "coordinates": "014E08 57N48",
+    "timezone": "+1.00",
+    "option": "Jonkoping, Sweden             014E08 57N48     +1.00",
+    "file": "jonkoping_sweden_014e08_57n48_1_00"
+  },
+  {
+    "title": "Kaduna, Nigeria",
+    "coordinates": "007E25 10N31",
+    "timezone": "+1.00",
+    "option": "Kaduna, Nigeria               007E25 10N31     +1.00",
+    "file": "kaduna_nigeria_007e25_10n31_1_00"
+  },
+  {
+    "title": "Kaposvar, Hungary",
+    "coordinates": "017E47 46N18",
+    "timezone": "+1.00",
+    "option": "Kaposvar, Hungary             017E47 46N18     +1.00",
+    "file": "kaposvar_hungary_017e47_46n18_1_00"
+  },
+  {
+    "title": "Karlsruhe, Germany",
+    "coordinates": "008E23 49N01",
+    "timezone": "+1.00",
+    "option": "Karlsruhe, Germany            008E23 49N01     +1.00",
+    "file": "karlsruhe_germany_008e23_49n01_1_00"
+  },
+  {
+    "title": "Karlstad, Sweden",
+    "coordinates": "013E30 59N25",
+    "timezone": "+1.00",
+    "option": "Karlstad, Sweden              013E30 59N25     +1.00",
+    "file": "karlstad_sweden_013e30_59n25_1_00"
+  },
+  {
+    "title": "Kiel, Germany",
+    "coordinates": "010E08 54N20",
+    "timezone": "+1.00",
+    "option": "Kiel, Germany                 010E08 54N20     +1.00",
+    "file": "kiel_germany_010e08_54n20_1_00"
+  },
+  {
+    "title": "Klagenfurt, Austria",
+    "coordinates": "014E18 46N38",
+    "timezone": "+1.00",
+    "option": "Klagenfurt, Austria           014E18 46N38     +1.00",
+    "file": "klagenfurt_austria_014e18_46n38_1_00"
+  },
+  {
+    "title": "Koblenz, Germany",
+    "coordinates": "007E33 50N22",
+    "timezone": "+1.00",
+    "option": "Koblenz, Germany              007E33 50N22     +1.00",
+    "file": "koblenz_germany_007e33_50n22_1_00"
+  },
+  {
+    "title": "Koln (Cologne), Germany",
+    "coordinates": "006E56 50N56",
+    "timezone": "+1.00",
+    "option": "Koln (Cologne), Germany       006E56 50N56     +1.00",
+    "file": "koln_cologne_germany_006e56_50n56_1_00"
+  },
+  {
+    "title": "Lagos, Nigeria",
+    "coordinates": "003E23 06N27",
+    "timezone": "+1.00",
+    "option": "Lagos, Nigeria                003E23 06N27     +1.00",
+    "file": "lagos_nigeria_003e23_06n27_1_00"
+  },
+  {
+    "title": "Leipzig, Germany",
+    "coordinates": "012E20 51N20",
+    "timezone": "+1.00",
+    "option": "Leipzig, Germany              012E20 51N20     +1.00",
+    "file": "leipzig_germany_012e20_51n20_1_00"
+  },
+  {
+    "title": "Leon, Spain",
+    "coordinates": "005W34 42N36",
+    "timezone": "+1.00",
+    "option": "Leon, Spain                   005W34 42N36     +1.00",
+    "file": "leon_spain_005w34_42n36_1_00"
+  },
+  {
+    "title": "Liege, Belgium",
+    "coordinates": "005E34 50N39",
+    "timezone": "+1.00",
+    "option": "Liege, Belgium                005E34 50N39     +1.00",
+    "file": "liege_belgium_005e34_50n39_1_00"
+  },
+  {
+    "title": "Lille, France",
+    "coordinates": "003E02 50N39",
+    "timezone": "+1.00",
+    "option": "Lille, France                 003E02 50N39     +1.00",
+    "file": "lille_france_003e02_50n39_1_00"
+  },
+  {
+    "title": "Ljubljana, Slovenia",
+    "coordinates": "014E31 46N05",
+    "timezone": "+1.00",
+    "option": "Ljubljana, Slovenia           014E31 46N05     +1.00",
+    "file": "ljubljana_slovenia_014e31_46n05_1_00"
+  },
+  {
+    "title": "Logrono, Spain",
+    "coordinates": "002W27 42N28",
+    "timezone": "+1.00",
+    "option": "Logrono, Spain                002W27 42N28     +1.00",
+    "file": "logrono_spain_002w27_42n28_1_00"
+  },
+  {
+    "title": "Longwy, France",
+    "coordinates": "005E46 49N32",
+    "timezone": "+1.00",
+    "option": "Longwy, France                005E46 49N32     +1.00",
+    "file": "longwy_france_005e46_49n32_1_00"
+  },
+  {
+    "title": "Ludvika, Sweden",
+    "coordinates": "015E14 60N09",
+    "timezone": "+1.00",
+    "option": "Ludvika, Sweden               015E14 60N09     +1.00",
+    "file": "ludvika_sweden_015e14_60n09_1_00"
+  },
+  {
+    "title": "Lugano, Switzerland",
+    "coordinates": "008E56 46N01",
+    "timezone": "+1.00",
+    "option": "Lugano, Switzerland           008E56 46N01     +1.00",
+    "file": "lugano_switzerland_008e56_46n01_1_00"
+  },
+  {
+    "title": "Lulea, Sweden",
+    "coordinates": "022E08 65N35",
+    "timezone": "+1.00",
+    "option": "Lulea, Sweden                 022E08 65N35     +1.00",
+    "file": "lulea_sweden_022e08_65n35_1_00"
+  },
+  {
+    "title": "Lund, Sweden",
+    "coordinates": "013E12 55N43",
+    "timezone": "+1.00",
+    "option": "Lund, Sweden                  013E12 55N43     +1.00",
+    "file": "lund_sweden_013e12_55n43_1_00"
+  },
+  {
+    "title": "Lyon, France",
+    "coordinates": "004E51 45N46",
+    "timezone": "+1.00",
+    "option": "Lyon, France                  004E51 45N46     +1.00",
+    "file": "lyon_france_004e51_45n46_1_00"
+  },
+  {
+    "title": "Madrid, Spain",
+    "coordinates": "003W41 40N25",
+    "timezone": "+1.00",
+    "option": "Madrid, Spain                 003W41 40N25     +1.00",
+    "file": "madrid_spain_003w41_40n25_1_00"
+  },
+  {
+    "title": "Malaga, Spain",
+    "coordinates": "004W26 36N45",
+    "timezone": "+1.00",
+    "option": "Malaga, Spain                 004W26 36N45     +1.00",
+    "file": "malaga_spain_004w26_36n45_1_00"
+  },
+  {
+    "title": "Malmo, Sweden",
+    "coordinates": "013E00 55N37",
+    "timezone": "+1.00",
+    "option": "Malmo, Sweden                 013E00 55N37     +1.00",
+    "file": "malmo_sweden_013e00_55n37_1_00"
+  },
+  {
+    "title": "Marburg, Germany",
+    "coordinates": "008E44 50N49",
+    "timezone": "+1.00",
+    "option": "Marburg, Germany              008E44 50N49     +1.00",
+    "file": "marburg_germany_008e44_50n49_1_00"
+  },
+  {
+    "title": "Marchena, Spain",
+    "coordinates": "005W24 37N20",
+    "timezone": "+1.00",
+    "option": "Marchena, Spain               005W24 37N20     +1.00",
+    "file": "marchena_spain_005w24_37n20_1_00"
+  },
+  {
+    "title": "Milan, Italy",
+    "coordinates": "009E13 45N28",
+    "timezone": "+1.00",
+    "option": "Milan, Italy                  009E13 45N28     +1.00",
+    "file": "milan_italy_009e13_45n28_1_00"
+  },
+  {
+    "title": "Moratinos, Spain",
+    "coordinates": "004W56 42N22",
+    "timezone": "+1.00",
+    "option": "Moratinos, Spain              004W56 42N22     +1.00",
+    "file": "moratinos_spain_004w56_42n22_1_00"
+  },
+  {
+    "title": "Munchen (Munich), Germany",
+    "coordinates": "011E33 48N09",
+    "timezone": "+1.00",
+    "option": "Munchen (Munich), Germany     011E33 48N09     +1.00",
+    "file": "munchen_munich_germany_011e33_48n09_1_00"
+  },
+  {
+    "title": "Naples (Napoli), Italy",
+    "coordinates": "014E16 40N52",
+    "timezone": "+1.00",
+    "option": "Naples (Napoli), Italy        014E16 40N52     +1.00",
+    "file": "naples_napoli_italy_014e16_40n52_1_00"
+  },
+  {
+    "title": "Nice, France",
+    "coordinates": "007E15 43N41",
+    "timezone": "+1.00",
+    "option": "Nice, France                  007E15 43N41     +1.00",
+    "file": "nice_france_007e15_43n41_1_00"
+  },
+  {
+    "title": "Nurnberg (Nuremberg), Germany",
+    "coordinates": "011E03 49N28",
+    "timezone": "+1.00",
+    "option": "Nurnberg (Nuremberg), Germany 011E03 49N28     +1.00",
+    "file": "nurnberg_nuremberg_germany_011e03_49n28_1_00"
+  },
+  {
+    "title": "Opole, Poland",
+    "coordinates": "017E55 50N41",
+    "timezone": "+1.00",
+    "option": "Opole, Poland                 017E55 50N41     +1.00",
+    "file": "opole_poland_017e55_50n41_1_00"
+  },
+  {
+    "title": "Orange, France",
+    "coordinates": "004E48 44N10",
+    "timezone": "+1.00",
+    "option": "Orange, France                004E48 44N10     +1.00",
+    "file": "orange_france_004e48_44n10_1_00"
+  },
+  {
+    "title": "Oristano, Italy",
+    "coordinates": "008E36 39N54",
+    "timezone": "+1.00",
+    "option": "Oristano, Italy               008E36 39N54     +1.00",
+    "file": "oristano_italy_008e36_39n54_1_00"
+  },
+  {
+    "title": "Osijek, Croatia",
+    "coordinates": "018E43 45N34",
+    "timezone": "+1.00",
+    "option": "Osijek, Croatia               018E43 45N34     +1.00",
+    "file": "osijek_croatia_018e43_45n34_1_00"
+  },
+  {
+    "title": "Oslo, Norway",
+    "coordinates": "010E43 59N56",
+    "timezone": "+1.00",
+    "option": "Oslo, Norway                  010E43 59N56     +1.00",
+    "file": "oslo_norway_010e43_59n56_1_00"
+  },
+  {
+    "title": "Ostersund, Sweden",
+    "coordinates": "014E41 63N10",
+    "timezone": "+1.00",
+    "option": "Ostersund, Sweden             014E41 63N10     +1.00",
+    "file": "ostersund_sweden_014e41_63n10_1_00"
+  },
+  {
+    "title": "Paderborn, Germany",
+    "coordinates": "008E44 51N42",
+    "timezone": "+1.00",
+    "option": "Paderborn, Germany            008E44 51N42     +1.00",
+    "file": "paderborn_germany_008e44_51n42_1_00"
+  },
+  {
+    "title": "Padua, Italy",
+    "coordinates": "011E53 45N25",
+    "timezone": "+1.00",
+    "option": "Padua, Italy                  011E53 45N25     +1.00",
+    "file": "padua_italy_011e53_45n25_1_00"
+  },
+  {
+    "title": "Palencia, Spain",
+    "coordinates": "004W32 42N01",
+    "timezone": "+1.00",
+    "option": "Palencia, Spain               004W32 42N01     +1.00",
+    "file": "palencia_spain_004w32_42n01_1_00"
+  },
+  {
+    "title": "Palma de Mallorca, Spain",
+    "coordinates": "002E39 39N34",
+    "timezone": "+1.00",
+    "option": "Palma de Mallorca, Spain      002E39 39N34     +1.00",
+    "file": "palma_de_mallorca_spain_002e39_39n34_1_00"
+  },
+  {
+    "title": "Paris, France",
+    "coordinates": "002E20 48N50",
+    "timezone": "+1.00",
+    "option": "Paris, France                 002E20 48N50     +1.00",
+    "file": "paris_france_002e20_48n50_1_00"
+  },
+  {
+    "title": "Passau, Germany",
+    "coordinates": "013E28 48N34",
+    "timezone": "+1.00",
+    "option": "Passau, Germany               013E28 48N34     +1.00",
+    "file": "passau_germany_013e28_48n34_1_00"
+  },
+  {
+    "title": "Pecs, Hungary",
+    "coordinates": "018E13 46N05",
+    "timezone": "+1.00",
+    "option": "Pecs, Hungary                 018E13 46N05     +1.00",
+    "file": "pecs_hungary_018e13_46n05_1_00"
+  },
+  {
+    "title": "Pescara, Italy",
+    "coordinates": "014E13 42N28",
+    "timezone": "+1.00",
+    "option": "Pescara, Italy                014E13 42N28     +1.00",
+    "file": "pescara_italy_014e13_42n28_1_00"
+  },
+  {
+    "title": "Pisa, Italy",
+    "coordinates": "010E23 43N43",
+    "timezone": "+1.00",
+    "option": "Pisa, Italy                   010E23 43N43     +1.00",
+    "file": "pisa_italy_010e23_43n43_1_00"
+  },
+  {
+    "title": "Poitiers, France",
+    "coordinates": "000E19 46N37",
+    "timezone": "+1.00",
+    "option": "Poitiers, France              000E19 46N37     +1.00",
+    "file": "poitiers_france_000e19_46n37_1_00"
+  },
+  {
+    "title": "Port Harcourt, Nigeria",
+    "coordinates": "007E01 04N46",
+    "timezone": "+1.00",
+    "option": "Port Harcourt, Nigeria        007E01 04N46     +1.00",
+    "file": "port_harcourt_nigeria_007e01_04n46_1_00"
+  },
+  {
+    "title": "Portogruaro, Italy",
+    "coordinates": "012E50 45N47",
+    "timezone": "+1.00",
+    "option": "Portogruaro, Italy            012E50 45N47     +1.00",
+    "file": "portogruaro_italy_012e50_45n47_1_00"
+  },
+  {
+    "title": "Prague, Czech Republic",
+    "coordinates": "014E25 50N05",
+    "timezone": "+1.00",
+    "option": "Prague, Czech Republic        014E25 50N05     +1.00",
+    "file": "prague_czech_republic_014e25_50n05_1_00"
+  },
+  {
+    "title": "Pula, Croatia",
+    "coordinates": "013E51 44N52",
+    "timezone": "+1.00",
+    "option": "Pula, Croatia                 013E51 44N52     +1.00",
+    "file": "pula_croatia_013e51_44n52_1_00"
+  },
+  {
+    "title": "Rijeka, Croatia",
+    "coordinates": "014E29 45N22",
+    "timezone": "+1.00",
+    "option": "Rijeka, Croatia               014E29 45N22     +1.00",
+    "file": "rijeka_croatia_014e29_45n22_1_00"
+  },
+  {
+    "title": "Rincon de Soto, Spain",
+    "coordinates": "001W50 42N14",
+    "timezone": "+1.00",
+    "option": "Rincon de Soto, Spain         001W50 42N14     +1.00",
+    "file": "rincon_de_soto_spain_001w50_42n14_1_00"
+  },
+  {
+    "title": "Rome, Italy",
+    "coordinates": "012E28 41N55",
+    "timezone": "+1.00",
+    "option": "Rome, Italy                   012E28 41N55     +1.00",
+    "file": "rome_italy_012e28_41n55_1_00"
+  },
+  {
+    "title": "Saarbrucken, Germany",
+    "coordinates": "007E00 49N13",
+    "timezone": "+1.00",
+    "option": "Saarbrucken, Germany          007E00 49N13     +1.00",
+    "file": "saarbrucken_germany_007e00_49n13_1_00"
+  },
+  {
+    "title": "Salzburg, Austria",
+    "coordinates": "013E07 47N52",
+    "timezone": "+1.00",
+    "option": "Salzburg, Austria             013E07 47N52     +1.00",
+    "file": "salzburg_austria_013e07_47n52_1_00"
+  },
+  {
+    "title": "Salzwedel, Germany",
+    "coordinates": "011E08 52N52",
+    "timezone": "+1.00",
+    "option": "Salzwedel, Germany            011E08 52N52     +1.00",
+    "file": "salzwedel_germany_011e08_52n52_1_00"
+  },
+  {
+    "title": "Sarajevo, Bosnia",
+    "coordinates": "018E29 45N53",
+    "timezone": "+1.00",
+    "option": "Sarajevo, Bosnia              018E29 45N53     +1.00",
+    "file": "sarajevo_bosnia_018e29_45n53_1_00"
+  },
+  {
+    "title": "Schaffhausen, Switzerland",
+    "coordinates": "008E38 47N42",
+    "timezone": "+1.00",
+    "option": "Schaffhausen, Switzerland     008E38 47N42     +1.00",
+    "file": "schaffhausen_switzerland_008e38_47n42_1_00"
+  },
+  {
+    "title": "Schwerin, Germany",
+    "coordinates": "011E23 53N38",
+    "timezone": "+1.00",
+    "option": "Schwerin, Germany             011E23 53N38     +1.00",
+    "file": "schwerin_germany_011e23_53n38_1_00"
+  },
+  {
+    "title": "Skopje, Macedonia",
+    "coordinates": "021E26 41N59",
+    "timezone": "+1.00",
+    "option": "Skopje, Macedonia             021E26 41N59     +1.00",
+    "file": "skopje_macedonia_021e26_41n59_1_00"
+  },
+  {
+    "title": "Sombor, Serbia",
+    "coordinates": "019E08 45N47",
+    "timezone": "+1.00",
+    "option": "Sombor, Serbia                019E08 45N47     +1.00",
+    "file": "sombor_serbia_019e08_45n47_1_00"
+  },
+  {
+    "title": "Split, Croatia",
+    "coordinates": "016E26 43N32",
+    "timezone": "+1.00",
+    "option": "Split, Croatia                016E26 43N32     +1.00",
+    "file": "split_croatia_016e26_43n32_1_00"
+  },
+  {
+    "title": "St. Aegyd, Austria",
+    "coordinates": "015E32 47N51",
+    "timezone": "+1.00",
+    "option": "St. Aegyd, Austria            015E32 47N51     +1.00",
+    "file": "st_aegyd_austria_015e32_47n51_1_00"
+  },
+  {
+    "title": "Stockholm, Sweden",
+    "coordinates": "018E05 59N20",
+    "timezone": "+1.00",
+    "option": "Stockholm, Sweden             018E05 59N20     +1.00",
+    "file": "stockholm_sweden_018e05_59n20_1_00"
+  },
+  {
+    "title": "Stuttgart, Germany",
+    "coordinates": "009E10 48N47",
+    "timezone": "+1.00",
+    "option": "Stuttgart, Germany            009E10 48N47     +1.00",
+    "file": "stuttgart_germany_009e10_48n47_1_00"
+  },
+  {
+    "title": "Sundsvall, Sweden",
+    "coordinates": "017E18 62N22",
+    "timezone": "+1.00",
+    "option": "Sundsvall, Sweden             017E18 62N22     +1.00",
+    "file": "sundsvall_sweden_017e18_62n22_1_00"
+  },
+  {
+    "title": "Szczecin, Poland",
+    "coordinates": "014E32 53N26",
+    "timezone": "+1.00",
+    "option": "Szczecin, Poland              014E32 53N26     +1.00",
+    "file": "szczecin_poland_014e32_53n26_1_00"
+  },
+  {
+    "title": "Szolnok, Hungary",
+    "coordinates": "020E13 47N12",
+    "timezone": "+1.00",
+    "option": "Szolnok, Hungary              020E13 47N12     +1.00",
+    "file": "szolnok_hungary_020e13_47n12_1_00"
+  },
+  {
+    "title": "Toulouse, France",
+    "coordinates": "001E26 43N38",
+    "timezone": "+1.00",
+    "option": "Toulouse, France              001E26 43N38     +1.00",
+    "file": "toulouse_france_001e26_43n38_1_00"
+  },
+  {
+    "title": "Trier, Germany",
+    "coordinates": "006E38 49N45",
+    "timezone": "+1.00",
+    "option": "Trier, Germany                006E38 49N45     +1.00",
+    "file": "trier_germany_006e38_49n45_1_00"
+  },
+  {
+    "title": "Trnava, Slovak Republic",
+    "coordinates": "017E37 48N24",
+    "timezone": "+1.00",
+    "option": "Trnava, Slovak Republic       017E37 48N24     +1.00",
+    "file": "trnava_slovak_republic_017e37_48n24_1_00"
+  },
+  {
+    "title": "Ulm, Germany",
+    "coordinates": "009E58 48N25",
+    "timezone": "+1.00",
+    "option": "Ulm, Germany                  009E58 48N25     +1.00",
+    "file": "ulm_germany_009e58_48n25_1_00"
+  },
+  {
+    "title": "Umea, Sweden",
+    "coordinates": "020E27 63N47",
+    "timezone": "+1.00",
+    "option": "Umea, Sweden                  020E27 63N47     +1.00",
+    "file": "umea_sweden_020e27_63n47_1_00"
+  },
+  {
+    "title": "Uppsala, Sweden",
+    "coordinates": "017E39 59N52",
+    "timezone": "+1.00",
+    "option": "Uppsala, Sweden               017E39 59N52     +1.00",
+    "file": "uppsala_sweden_017e39_59n52_1_00"
+  },
+  {
+    "title": "Utrecht, Netherlands",
+    "coordinates": "005E06 52N05",
+    "timezone": "+1.00",
+    "option": "Utrecht, Netherlands          005E06 52N05     +1.00",
+    "file": "utrecht_netherlands_005e06_52n05_1_00"
+  },
+  {
+    "title": "Valencay, France",
+    "coordinates": "001E31 47N11",
+    "timezone": "+1.00",
+    "option": "Valencay, France              001E31 47N11     +1.00",
+    "file": "valencay_france_001e31_47n11_1_00"
+  },
+  {
+    "title": "Valencia, Spain",
+    "coordinates": "000W24 39N28",
+    "timezone": "+1.00",
+    "option": "Valencia, Spain               000W24 39N28     +1.00",
+    "file": "valencia_spain_000w24_39n28_1_00"
+  },
+  {
+    "title": "Vaxjo, Sweden",
+    "coordinates": "014E49 56N52",
+    "timezone": "+1.00",
+    "option": "Vaxjo, Sweden                 014E49 56N52     +1.00",
+    "file": "vaxjo_sweden_014e49_56n52_1_00"
+  },
+  {
+    "title": "Vicenza, Italy",
+    "coordinates": "011E32 45N33",
+    "timezone": "+1.00",
+    "option": "Vicenza, Italy                011E32 45N33     +1.00",
+    "file": "vicenza_italy_011e32_45n33_1_00"
+  },
+  {
+    "title": "Vienna, Austria",
+    "coordinates": "016E22 48N13",
+    "timezone": "+1.00",
+    "option": "Vienna, Austria               016E22 48N13     +1.00",
+    "file": "vienna_austria_016e22_48n13_1_00"
+  },
+  {
+    "title": "Villafranca del Bierzo, Spain",
+    "coordinates": "006W48 42N36",
+    "timezone": "+1.00",
+    "option": "Villafranca del Bierzo, Spain 006W48 42N36     +1.00",
+    "file": "villafranca_del_bierzo_spain_006w48_42n36_1_00"
+  },
+  {
+    "title": "Visby, Sweden",
+    "coordinates": "018E20 57N38",
+    "timezone": "+1.00",
+    "option": "Visby, Sweden                 018E20 57N38     +1.00",
+    "file": "visby_sweden_018e20_57n38_1_00"
+  },
+  {
+    "title": "Warri, Nigeria",
+    "coordinates": "005E45 05N31",
+    "timezone": "+1.00",
+    "option": "Warri, Nigeria                005E45 05N31     +1.00",
+    "file": "warri_nigeria_005e45_05n31_1_00"
+  },
+  {
+    "title": "Warsaw, Poland",
+    "coordinates": "021E00 52N15",
+    "timezone": "+1.00",
+    "option": "Warsaw, Poland                021E00 52N15     +1.00",
+    "file": "warsaw_poland_021e00_52n15_1_00"
+  },
+  {
+    "title": "Weimar, Germany",
+    "coordinates": "011E19 51N00",
+    "timezone": "+1.00",
+    "option": "Weimar, Germany               011E19 51N00     +1.00",
+    "file": "weimar_germany_011e19_51n00_1_00"
+  },
+  {
+    "title": "Wiesbaden, Germany",
+    "coordinates": "008E15 50N05",
+    "timezone": "+1.00",
+    "option": "Wiesbaden, Germany            008E15 50N05     +1.00",
+    "file": "wiesbaden_germany_008e15_50n05_1_00"
+  },
+  {
+    "title": "Wroclaw, Poland",
+    "coordinates": "017E02 51N02",
+    "timezone": "+1.00",
+    "option": "Wroclaw, Poland               017E02 51N02     +1.00",
+    "file": "wroclaw_poland_017e02_51n02_1_00"
+  },
+  {
+    "title": "Zagreb, Croatia",
+    "coordinates": "016E00 45N53",
+    "timezone": "+1.00",
+    "option": "Zagreb, Croatia               016E00 45N53     +1.00",
+    "file": "zagreb_croatia_016e00_45n53_1_00"
+  },
+  {
+    "title": "Zakopane, Poland",
+    "coordinates": "019E57 49N19",
+    "timezone": "+1.00",
+    "option": "Zakopane, Poland              019E57 49N19     +1.00",
+    "file": "zakopane_poland_019e57_49n19_1_00"
+  },
+  {
+    "title": "Zlin, Czech Republic",
+    "coordinates": "017E40 49N13",
+    "timezone": "+1.00",
+    "option": "Zlin, Czech Republic          017E40 49N13     +1.00",
+    "file": "zlin_czech_republic_017e40_49n13_1_00"
+  },
+  {
+    "title": "Zurich, Switzerland",
+    "coordinates": "008E33 47N10",
+    "timezone": "+1.00",
+    "option": "Zurich, Switzerland           008E33 47N10     +1.00",
+    "file": "zurich_switzerland_008e33_47n10_1_00"
+  }
+]

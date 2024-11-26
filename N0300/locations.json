@@ -1,0 +1,233 @@
+[
+  {
+    "title": "Bahia Blanca, Argentina",
+    "coordinates": "062W19 38S34",
+    "timezone": "-3.00",
+    "option": "Bahia Blanca, Argentina       062W19 38S34     -3.00",
+    "file": "bahia_blanca_argentina_062w19_38s34_3_00"
+  },
+  {
+    "title": "Belem, Brazil",
+    "coordinates": "048W29 01S27",
+    "timezone": "-3.00",
+    "option": "Belem, Brazil                 048W29 01S27     -3.00",
+    "file": "belem_brazil_048w29_01s27_3_00"
+  },
+  {
+    "title": "Belo Horizonte, Brazil",
+    "coordinates": "043W56 19S55",
+    "timezone": "-3.00",
+    "option": "Belo Horizonte, Brazil        043W56 19S55     -3.00",
+    "file": "belo_horizonte_brazil_043w56_19s55_3_00"
+  },
+  {
+    "title": "Brasilia, Brazil",
+    "coordinates": "047W55 15S47",
+    "timezone": "-3.00",
+    "option": "Brasilia, Brazil              047W55 15S47     -3.00",
+    "file": "brasilia_brazil_047w55_15s47_3_00"
+  },
+  {
+    "title": "Buenos Aires, Argentina",
+    "coordinates": "058W28 34S30",
+    "timezone": "-3.00",
+    "option": "Buenos Aires, Argentina       058W28 34S30     -3.00",
+    "file": "buenos_aires_argentina_058w28_34s30_3_00"
+  },
+  {
+    "title": "Campos, Brazil",
+    "coordinates": "041W15 21S40",
+    "timezone": "-3.00",
+    "option": "Campos, Brazil                041W15 21S40     -3.00",
+    "file": "campos_brazil_041w15_21s40_3_00"
+  },
+  {
+    "title": "Caruaru, Brazil",
+    "coordinates": "035W58 08S17",
+    "timezone": "-3.00",
+    "option": "Caruaru, Brazil               035W58 08S17     -3.00",
+    "file": "caruaru_brazil_035w58_08s17_3_00"
+  },
+  {
+    "title": "Cordoba, Argentina",
+    "coordinates": "064W09 31S20",
+    "timezone": "-3.00",
+    "option": "Cordoba, Argentina            064W09 31S20     -3.00",
+    "file": "cordoba_argentina_064w09_31s20_3_00"
+  },
+  {
+    "title": "Curitiba, Brazil",
+    "coordinates": "049W15 25S25",
+    "timezone": "-3.00",
+    "option": "Curitiba, Brazil              049W15 25S25     -3.00",
+    "file": "curitiba_brazil_049w15_25s25_3_00"
+  },
+  {
+    "title": "Essequibo Coast, Guyana",
+    "coordinates": "058W38 05N50",
+    "timezone": "-3.00",
+    "option": "Essequibo Coast, Guyana       058W38 05N50     -3.00",
+    "file": "essequibo_coast_guyana_058w38_05n50_3_00"
+  },
+  {
+    "title": "Florianopolis, Brazil",
+    "coordinates": "048W34 27S35",
+    "timezone": "-3.00",
+    "option": "Florianopolis, Brazil         048W34 27S35     -3.00",
+    "file": "florianopolis_brazil_048w34_27s35_3_00"
+  },
+  {
+    "title": "Fortaleza, Brazil",
+    "coordinates": "038W30 03S43",
+    "timezone": "-3.00",
+    "option": "Fortaleza, Brazil             038W30 03S43     -3.00",
+    "file": "fortaleza_brazil_038w30_03s43_3_00"
+  },
+  {
+    "title": "Georgetown, Guyana",
+    "coordinates": "058W02 06N48",
+    "timezone": "-3.00",
+    "option": "Georgetown, Guyana            058W02 06N48     -3.00",
+    "file": "georgetown_guyana_058w02_06n48_3_00"
+  },
+  {
+    "title": "Goiania, Brazil",
+    "coordinates": "049W16 16S40",
+    "timezone": "-3.00",
+    "option": "Goiania, Brazil               049W16 16S40     -3.00",
+    "file": "goiania_brazil_049w16_16s40_3_00"
+  },
+  {
+    "title": "Guarulhos, Brazil",
+    "coordinates": "046W30 23S28",
+    "timezone": "-3.00",
+    "option": "Guarulhos, Brazil             046W30 23S28     -3.00",
+    "file": "guarulhos_brazil_046w30_23s28_3_00"
+  },
+  {
+    "title": "Lambari, Brazil",
+    "coordinates": "045W15 22S00",
+    "timezone": "-3.00",
+    "option": "Lambari, Brazil               045W15 22S00     -3.00",
+    "file": "lambari_brazil_045w15_22s00_3_00"
+  },
+  {
+    "title": "Mar del Plata, Argentina",
+    "coordinates": "057W38 37S52",
+    "timezone": "-3.00",
+    "option": "Mar del Plata, Argentina      057W38 37S52     -3.00",
+    "file": "mar_del_plata_argentina_057w38_37s52_3_00"
+  },
+  {
+    "title": "Mendoza, Argentina",
+    "coordinates": "068W55 32S48",
+    "timezone": "-3.00",
+    "option": "Mendoza, Argentina            068W55 32S48     -3.00",
+    "file": "mendoza_argentina_068w55_32s48_3_00"
+  },
+  {
+    "title": "Montevideo, Uruguay",
+    "coordinates": "056W10 34S51",
+    "timezone": "-3.00",
+    "option": "Montevideo, Uruguay           056W10 34S51     -3.00",
+    "file": "montevideo_uruguay_056w10_34s51_3_00"
+  },
+  {
+    "title": "Paramaribo, Surinam",
+    "coordinates": "055W10 05N50",
+    "timezone": "-3.00",
+    "option": "Paramaribo, Surinam           055W10 05N50     -3.00",
+    "file": "paramaribo_surinam_055w10_05n50_3_00"
+  },
+  {
+    "title": "Petropolis, Brazil",
+    "coordinates": "043W11 22S31",
+    "timezone": "-3.00",
+    "option": "Petropolis, Brazil            043W11 22S31     -3.00",
+    "file": "petropolis_brazil_043w11_22s31_3_00"
+  },
+  {
+    "title": "Porto Alegre, Brazil",
+    "coordinates": "051W11 30S04",
+    "timezone": "-3.00",
+    "option": "Porto Alegre, Brazil          051W11 30S04     -3.00",
+    "file": "porto_alegre_brazil_051w11_30s04_3_00"
+  },
+  {
+    "title": "Recife, Brazil",
+    "coordinates": "034W58 08S04",
+    "timezone": "-3.00",
+    "option": "Recife, Brazil                034W58 08S04     -3.00",
+    "file": "recife_brazil_034w58_08s04_3_00"
+  },
+  {
+    "title": "Ribeirao Preto, Brazil",
+    "coordinates": "047W56 21S00",
+    "timezone": "-3.00",
+    "option": "Ribeirao Preto, Brazil        047W56 21S00     -3.00",
+    "file": "ribeirao_preto_brazil_047w56_21s00_3_00"
+  },
+  {
+    "title": "Rio de Janeiro, Brazil",
+    "coordinates": "043W15 22S54",
+    "timezone": "-3.00",
+    "option": "Rio de Janeiro, Brazil        043W15 22S54     -3.00",
+    "file": "rio_de_janeiro_brazil_043w15_22s54_3_00"
+  },
+  {
+    "title": "Rosario, Argentina",
+    "coordinates": "060W40 32S56",
+    "timezone": "-3.00",
+    "option": "Rosario, Argentina            060W40 32S56     -3.00",
+    "file": "rosario_argentina_060w40_32s56_3_00"
+  },
+  {
+    "title": "Salvador, Brazil",
+    "coordinates": "038W31 12S59",
+    "timezone": "-3.00",
+    "option": "Salvador, Brazil              038W31 12S59     -3.00",
+    "file": "salvador_brazil_038w31_12s59_3_00"
+  },
+  {
+    "title": "Santos, Brazil",
+    "coordinates": "046W20 23S57",
+    "timezone": "-3.00",
+    "option": "Santos, Brazil                046W20 23S57     -3.00",
+    "file": "santos_brazil_046w20_23s57_3_00"
+  },
+  {
+    "title": "Sao Carlos, Brazil",
+    "coordinates": "047W58 21S54",
+    "timezone": "-3.00",
+    "option": "Sao Carlos, Brazil            047W58 21S54     -3.00",
+    "file": "sao_carlos_brazil_047w58_21s54_3_00"
+  },
+  {
+    "title": "Sao Paulo, Brazil",
+    "coordinates": "046W40 23S20",
+    "timezone": "-3.00",
+    "option": "Sao Paulo, Brazil             046W40 23S20     -3.00",
+    "file": "sao_paulo_brazil_046w40_23s20_3_00"
+  },
+  {
+    "title": "Taubate, Brazil",
+    "coordinates": "045W36 23S00",
+    "timezone": "-3.00",
+    "option": "Taubate, Brazil               045W36 23S00     -3.00",
+    "file": "taubate_brazil_045w36_23s00_3_00"
+  },
+  {
+    "title": "Ubatuba, Brazil",
+    "coordinates": "045W05 23S50",
+    "timezone": "-3.00",
+    "option": "Ubatuba, Brazil               045W05 23S50     -3.00",
+    "file": "ubatuba_brazil_045w05_23s50_3_00"
+  },
+  {
+    "title": "Vitoria, Brazil",
+    "coordinates": "040W21 20S19",
+    "timezone": "-3.00",
+    "option": "Vitoria, Brazil               040W21 20S19     -3.00",
+    "file": "vitoria_brazil_040w21_20s19_3_00"
+  }
+]

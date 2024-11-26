@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Abu Dhabi, UAE",
+    "coordinates": "054E22 24N28",
+    "timezone": "+4.00",
+    "option": "Abu Dhabi, UAE                054E22 24N28     +4.00",
+    "file": "abu_dhabi_uae_054e22_24n28_4_00"
+  },
+  {
+    "title": "Astrakhan, Russia",
+    "coordinates": "048E03 46N21",
+    "timezone": "+4.00",
+    "option": "Astrakhan, Russia             048E03 46N21     +4.00",
+    "file": "astrakhan_russia_048e03_46n21_4_00"
+  },
+  {
+    "title": "Baku, Azerbaijan",
+    "coordinates": "049E50 40N28",
+    "timezone": "+4.00",
+    "option": "Baku, Azerbaijan              049E50 40N28     +4.00",
+    "file": "baku_azerbaijan_049e50_40n28_4_00"
+  },
+  {
+    "title": "Izhevsk, Russia",
+    "coordinates": "053E14 56N51",
+    "timezone": "+4.00",
+    "option": "Izhevsk, Russia               053E14 56N51     +4.00",
+    "file": "izhevsk_russia_053e14_56n51_4_00"
+  },
+  {
+    "title": "Mauritius",
+    "coordinates": "057E33 20S17",
+    "timezone": "+4.00",
+    "option": "Mauritius                     057E33 20S17     +4.00",
+    "file": "mauritius_057e33_20s17_4_00"
+  },
+  {
+    "title": "Samara, Russia",
+    "coordinates": "050E09 53N12",
+    "timezone": "+4.00",
+    "option": "Samara, Russia                050E09 53N12     +4.00",
+    "file": "samara_russia_050e09_53n12_4_00"
+  },
+  {
+    "title": "Saratov, Russia",
+    "coordinates": "046E02 51N32",
+    "timezone": "+4.00",
+    "option": "Saratov, Russia               046E02 51N32     +4.00",
+    "file": "saratov_russia_046e02_51n32_4_00"
+  },
+  {
+    "title": "Tbilisi, Georgia",
+    "coordinates": "044E50 41N43",
+    "timezone": "+4.00",
+    "option": "Tbilisi, Georgia              044E50 41N43     +4.00",
+    "file": "tbilisi_georgia_044e50_41n43_4_00"
+  },
+  {
+    "title": "Yerevan, Armenia",
+    "coordinates": "044E30 40N15",
+    "timezone": "+4.00",
+    "option": "Yerevan, Armenia              044E30 40N15     +4.00",
+    "file": "yerevan_armenia_044e30_40n15_4_00"
+  }
+]

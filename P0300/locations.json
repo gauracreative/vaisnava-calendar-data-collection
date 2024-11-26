@@ -1,0 +1,226 @@
+[
+  {
+    "title": "Ankara, Turkey",
+    "coordinates": "032E52 39N56",
+    "timezone": "+3.00",
+    "option": "Ankara, Turkey                032E52 39N56     +3.00",
+    "file": "ankara_turkey_032e52_39n56_3_00"
+  },
+  {
+    "title": "Antalya, Turkey",
+    "coordinates": "030E42 36N53",
+    "timezone": "+3.00",
+    "option": "Antalya, Turkey               030E42 36N53     +3.00",
+    "file": "antalya_turkey_030e42_36n53_3_00"
+  },
+  {
+    "title": "Arkhangelsk, Russia",
+    "coordinates": "040E32 64N34",
+    "timezone": "+3.00",
+    "option": "Arkhangelsk, Russia           040E32 64N34     +3.00",
+    "file": "arkhangelsk_russia_040e32_64n34_3_00"
+  },
+  {
+    "title": "Bryansk, Russia",
+    "coordinates": "034E21 53N15",
+    "timezone": "+3.00",
+    "option": "Bryansk, Russia               034E21 53N15     +3.00",
+    "file": "bryansk_russia_034e21_53n15_3_00"
+  },
+  {
+    "title": "Gomel, Belarus,",
+    "coordinates": "031E00 52N25",
+    "timezone": "+3.00",
+    "option": "Gomel, Belarus,               031E00 52N25     +3.00",
+    "file": "gomel_belarus_031e00_52n25_3_00"
+  },
+  {
+    "title": "Istanbul, Turkey",
+    "coordinates": "028E58 41N01",
+    "timezone": "+3.00",
+    "option": "Istanbul, Turkey              028E58 41N01     +3.00",
+    "file": "istanbul_turkey_028e58_41n01_3_00"
+  },
+  {
+    "title": "Izmir, Turkey",
+    "coordinates": "027E09 38N25",
+    "timezone": "+3.00",
+    "option": "Izmir, Turkey                 027E09 38N25     +3.00",
+    "file": "izmir_turkey_027e09_38n25_3_00"
+  },
+  {
+    "title": "Kampala, Uganda",
+    "coordinates": "032E30 00N18",
+    "timezone": "+3.00",
+    "option": "Kampala, Uganda               032E30 00N18     +3.00",
+    "file": "kampala_uganda_032e30_00n18_3_00"
+  },
+  {
+    "title": "Kazan, Russia",
+    "coordinates": "049E07 55N48",
+    "timezone": "+3.00",
+    "option": "Kazan, Russia                 049E07 55N48     +3.00",
+    "file": "kazan_russia_049e07_55n48_3_00"
+  },
+  {
+    "title": "Kirov, Russia",
+    "coordinates": "049E40 58N36",
+    "timezone": "+3.00",
+    "option": "Kirov, Russia                 049E40 58N36     +3.00",
+    "file": "kirov_russia_049e40_58n36_3_00"
+  },
+  {
+    "title": "Kisumu, Kenya",
+    "coordinates": "034E45 00S03",
+    "timezone": "+3.00",
+    "option": "Kisumu, Kenya                 034E45 00S03     +3.00",
+    "file": "kisumu_kenya_034e45_00s03_3_00"
+  },
+  {
+    "title": "Kotlas, Russia",
+    "coordinates": "046E38 61N15",
+    "timezone": "+3.00",
+    "option": "Kotlas, Russia                046E38 61N15     +3.00",
+    "file": "kotlas_russia_046e38_61n15_3_00"
+  },
+  {
+    "title": "Krasnodar, Russia",
+    "coordinates": "038E59 45N02",
+    "timezone": "+3.00",
+    "option": "Krasnodar, Russia             038E59 45N02     +3.00",
+    "file": "krasnodar_russia_038e59_45n02_3_00"
+  },
+  {
+    "title": "Lipetsk, Russia",
+    "coordinates": "039E35 52N37",
+    "timezone": "+3.00",
+    "option": "Lipetsk, Russia               039E35 52N37     +3.00",
+    "file": "lipetsk_russia_039e35_52n37_3_00"
+  },
+  {
+    "title": "Manama, Bahrain",
+    "coordinates": "050E35 26N11",
+    "timezone": "+3.00",
+    "option": "Manama, Bahrain               050E35 26N11     +3.00",
+    "file": "manama_bahrain_050e35_26n11_3_00"
+  },
+  {
+    "title": "Mombasa, Kenya",
+    "coordinates": "039E40 04S03",
+    "timezone": "+3.00",
+    "option": "Mombasa, Kenya                039E40 04S03     +3.00",
+    "file": "mombasa_kenya_039e40_04s03_3_00"
+  },
+  {
+    "title": "Moscow, Russia",
+    "coordinates": "037E38 55N43",
+    "timezone": "+3.00",
+    "option": "Moscow, Russia                037E38 55N43     +3.00",
+    "file": "moscow_russia_037e38_55n43_3_00"
+  },
+  {
+    "title": "Nairobi, Kenya",
+    "coordinates": "036E50 01S17",
+    "timezone": "+3.00",
+    "option": "Nairobi, Kenya                036E50 01S17     +3.00",
+    "file": "nairobi_kenya_036e50_01s17_3_00"
+  },
+  {
+    "title": "Pskov, Russia",
+    "coordinates": "028E20 57N50",
+    "timezone": "+3.00",
+    "option": "Pskov, Russia                 028E20 57N50     +3.00",
+    "file": "pskov_russia_028e20_57n50_3_00"
+  },
+  {
+    "title": "Riyadh, Saudi Arabia",
+    "coordinates": "046E43 24N38",
+    "timezone": "+3.00",
+    "option": "Riyadh, Saudi Arabia          046E43 24N38     +3.00",
+    "file": "riyadh_saudi_arabia_046e43_24n38_3_00"
+  },
+  {
+    "title": "Rostov-na-Donu, Russia",
+    "coordinates": "039E42 47N14",
+    "timezone": "+3.00",
+    "option": "Rostov-na-Donu, Russia        039E42 47N14     +3.00",
+    "file": "rostov_na_donu_russia_039e42_47n14_3_00"
+  },
+  {
+    "title": "Sevastopol, Russia",
+    "coordinates": "033E32 44N36",
+    "timezone": "+3.00",
+    "option": "Sevastopol, Russia            033E32 44N36     +3.00",
+    "file": "sevastopol_russia_033e32_44n36_3_00"
+  },
+  {
+    "title": "Simferopol, Russia",
+    "coordinates": "034E06 44N57",
+    "timezone": "+3.00",
+    "option": "Simferopol, Russia            034E06 44N57     +3.00",
+    "file": "simferopol_russia_034e06_44n57_3_00"
+  },
+  {
+    "title": "Simferopol, Ukraine",
+    "coordinates": "034E06 44N57",
+    "timezone": "+3.00",
+    "option": "Simferopol, Ukraine           034E06 44N57     +3.00",
+    "file": "simferopol_ukraine_034e06_44n57_3_00"
+  },
+  {
+    "title": "Sochi, Russia",
+    "coordinates": "039E44 43N36",
+    "timezone": "+3.00",
+    "option": "Sochi, Russia                 039E44 43N36     +3.00",
+    "file": "sochi_russia_039e44_43n36_3_00"
+  },
+  {
+    "title": "Soligalich, Russia,",
+    "coordinates": "042E17 59N05",
+    "timezone": "+3.00",
+    "option": "Soligalich, Russia,           042E17 59N05     +3.00",
+    "file": "soligalich_russia_042e17_59n05_3_00"
+  },
+  {
+    "title": "St. Petersburg, Russia",
+    "coordinates": "030E25 59N50",
+    "timezone": "+3.00",
+    "option": "St. Petersburg, Russia        030E25 59N50     +3.00",
+    "file": "st_petersburg_russia_030e25_59n50_3_00"
+  },
+  {
+    "title": "Vladikavkaz, Russia",
+    "coordinates": "043E30 43N20",
+    "timezone": "+3.00",
+    "option": "Vladikavkaz, Russia           043E30 43N20     +3.00",
+    "file": "vladikavkaz_russia_043e30_43n20_3_00"
+  },
+  {
+    "title": "Volgograd, Russia",
+    "coordinates": "044E35 48N48",
+    "timezone": "+3.00",
+    "option": "Volgograd, Russia             044E35 48N48     +3.00",
+    "file": "volgograd_russia_044e35_48n48_3_00"
+  },
+  {
+    "title": "Yalta, Russia",
+    "coordinates": "034E10 44N30",
+    "timezone": "+3.00",
+    "option": "Yalta, Russia                 034E10 44N30     +3.00",
+    "file": "yalta_russia_034e10_44n30_3_00"
+  },
+  {
+    "title": "Yalta, Ukraine",
+    "coordinates": "034E10 44N30",
+    "timezone": "+3.00",
+    "option": "Yalta, Ukraine                034E10 44N30     +3.00",
+    "file": "yalta_ukraine_034e10_44n30_3_00"
+  },
+  {
+    "title": "Yaroslavl, Russia",
+    "coordinates": "039E52 57N37",
+    "timezone": "+3.00",
+    "option": "Yaroslavl, Russia             039E52 57N37     +3.00",
+    "file": "yaroslavl_russia_039e52_57n37_3_00"
+  }
+]

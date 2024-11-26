@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Bambra, Victoria, Australia",
+    "coordinates": "144E03 38S23",
+    "timezone": "+10.00",
+    "option": "Bambra, Victoria, Australia   144E03 38S23    +10.00",
+    "file": "bambra_victoria_australia_144e03_38s23_10_00"
+  },
+  {
+    "title": "Brisbane, Australia",
+    "coordinates": "153E02 27S28",
+    "timezone": "+10.00",
+    "option": "Brisbane, Australia           153E02 27S28    +10.00",
+    "file": "brisbane_australia_153e02_27s28_10_00"
+  },
+  {
+    "title": "Cairns, Australia",
+    "coordinates": "145E46 16S55",
+    "timezone": "+10.00",
+    "option": "Cairns, Australia             145E46 16S55    +10.00",
+    "file": "cairns_australia_145e46_16s55_10_00"
+  },
+  {
+    "title": "Canberra, Australia",
+    "coordinates": "149E05 35S10",
+    "timezone": "+10.00",
+    "option": "Canberra, Australia           149E05 35S10    +10.00",
+    "file": "canberra_australia_149e05_35s10_10_00"
+  },
+  {
+    "title": "Cessnock, N.S.W., Australia",
+    "coordinates": "151E26 32S55",
+    "timezone": "+10.00",
+    "option": "Cessnock, N.S.W., Australia   151E26 32S55    +10.00",
+    "file": "cessnock_n_s_w_australia_151e26_32s55_10_00"
+  },
+  {
+    "title": "Golden Coast, Australia",
+    "coordinates": "153E25 27S58",
+    "timezone": "+10.00",
+    "option": "Golden Coast, Australia       153E25 27S58    +10.00",
+    "file": "golden_coast_australia_153e25_27s58_10_00"
+  },
+  {
+    "title": "Khabarovsk, Russia",
+    "coordinates": "135E06 48N30",
+    "timezone": "+10.00",
+    "option": "Khabarovsk, Russia            135E06 48N30    +10.00",
+    "file": "khabarovsk_russia_135e06_48n30_10_00"
+  },
+  {
+    "title": "Lismore, Australia",
+    "coordinates": "153E17 28S48",
+    "timezone": "+10.00",
+    "option": "Lismore, Australia            153E17 28S48    +10.00",
+    "file": "lismore_australia_153e17_28s48_10_00"
+  },
+  {
+    "title": "Melbourne, Australia",
+    "coordinates": "144E50 37S43",
+    "timezone": "+10.00",
+    "option": "Melbourne, Australia          144E50 37S43    +10.00",
+    "file": "melbourne_australia_144e50_37s43_10_00"
+  },
+  {
+    "title": "Murwillumbah, Australia",
+    "coordinates": "153E24 28S19",
+    "timezone": "+10.00",
+    "option": "Murwillumbah, Australia       153E24 28S19    +10.00",
+    "file": "murwillumbah_australia_153e24_28s19_10_00"
+  },
+  {
+    "title": "Sydney, Australia",
+    "coordinates": "151E10 33S55",
+    "timezone": "+10.00",
+    "option": "Sydney, Australia             151E10 33S55    +10.00",
+    "file": "sydney_australia_151e10_33s55_10_00"
+  },
+  {
+    "title": "Vladivostok, Russia",
+    "coordinates": "132E00 43N15",
+    "timezone": "+10.00",
+    "option": "Vladivostok, Russia           132E00 43N15    +10.00",
+    "file": "vladivostok_russia_132e00_43n15_10_00"
+  },
+  {
+    "title": "Winchelsea, Australia",
+    "coordinates": "144E00 38S14",
+    "timezone": "+10.00",
+    "option": "Winchelsea, Australia         144E00 38S14    +10.00",
+    "file": "winchelsea_australia_144e00_38s14_10_00"
+  }
+]

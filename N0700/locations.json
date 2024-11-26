@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Albuquerque, NM, USA",
+    "coordinates": "106W39 35N05",
+    "timezone": "-7.00",
+    "option": "Albuquerque, NM, USA          106W39 35N05     -7.00",
+    "file": "albuquerque_nm_usa_106w39_35n05_7_00"
+  },
+  {
+    "title": "Boise, Idaho, USA",
+    "coordinates": "116W13 43N37",
+    "timezone": "-7.00",
+    "option": "Boise, Idaho, USA             116W13 43N37     -7.00",
+    "file": "boise_idaho_usa_116w13_43n37_7_00"
+  },
+  {
+    "title": "Boulder, Colorado, USA",
+    "coordinates": "105W10 40N03",
+    "timezone": "-7.00",
+    "option": "Boulder, Colorado, USA        105W10 40N03     -7.00",
+    "file": "boulder_colorado_usa_105w10_40n03_7_00"
+  },
+  {
+    "title": "Calgary, Alberta, Canada",
+    "coordinates": "114W10 51N12",
+    "timezone": "-7.00",
+    "option": "Calgary, Alberta, Canada      114W10 51N12     -7.00",
+    "file": "calgary_alberta_canada_114w10_51n12_7_00"
+  },
+  {
+    "title": "Denver, Colorado, USA",
+    "coordinates": "104W59 39N48",
+    "timezone": "-7.00",
+    "option": "Denver, Colorado, USA         104W59 39N48     -7.00",
+    "file": "denver_colorado_usa_104w59_39n48_7_00"
+  },
+  {
+    "title": "Dickinson, North Dakota, USA",
+    "coordinates": "102W47 46N53",
+    "timezone": "-7.00",
+    "option": "Dickinson, North Dakota, USA  102W47 46N53     -7.00",
+    "file": "dickinson_north_dakota_usa_102w47_46n53_7_00"
+  },
+  {
+    "title": "Edmonton, Canada",
+    "coordinates": "113W35 53N31",
+    "timezone": "-7.00",
+    "option": "Edmonton, Canada              113W35 53N31     -7.00",
+    "file": "edmonton_canada_113w35_53n31_7_00"
+  },
+  {
+    "title": "La Paz, Mexico (Baja Calif)",
+    "coordinates": "110W18 24N10",
+    "timezone": "-7.00",
+    "option": "La Paz, Mexico (Baja Calif)   110W18 24N10     -7.00",
+    "file": "la_paz_mexico_baja_calif_110w18_24n10_7_00"
+  },
+  {
+    "title": "Missoula, Montana, USA",
+    "coordinates": "114W01 46N52",
+    "timezone": "-7.00",
+    "option": "Missoula, Montana, USA        114W01 46N52     -7.00",
+    "file": "missoula_montana_usa_114w01_46n52_7_00"
+  },
+  {
+    "title": "Phoenix, Arizona, USA",
+    "coordinates": "112W03 33N28",
+    "timezone": "-7.00",
+    "option": "Phoenix, Arizona, USA         112W03 33N28     -7.00",
+    "file": "phoenix_arizona_usa_112w03_33n28_7_00"
+  },
+  {
+    "title": "Provo, Utah, USA",
+    "coordinates": "111W39 40N14",
+    "timezone": "-7.00",
+    "option": "Provo, Utah, USA              111W39 40N14     -7.00",
+    "file": "provo_utah_usa_111w39_40n14_7_00"
+  },
+  {
+    "title": "Salt Lake City, Utah, USA",
+    "coordinates": "111W53 40N45",
+    "timezone": "-7.00",
+    "option": "Salt Lake City, Utah, USA     111W53 40N45     -7.00",
+    "file": "salt_lake_city_utah_usa_111w53_40n45_7_00"
+  },
+  {
+    "title": "Tucson, Arizona, USA",
+    "coordinates": "110W59 32N14",
+    "timezone": "-7.00",
+    "option": "Tucson, Arizona, USA          110W59 32N14     -7.00",
+    "file": "tucson_arizona_usa_110w59_32n14_7_00"
+  }
+]

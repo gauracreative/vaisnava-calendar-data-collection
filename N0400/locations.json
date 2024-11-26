@@ -1,0 +1,100 @@
+[
+  {
+    "title": "Asuncion, Paraguay",
+    "coordinates": "057W40 25S17",
+    "timezone": "-4.00",
+    "option": "Asuncion, Paraguay            057W40 25S17     -4.00",
+    "file": "asuncion_paraguay_057w40_25s17_4_00"
+  },
+  {
+    "title": "Barbados",
+    "coordinates": "059W32 13N10",
+    "timezone": "-4.00",
+    "option": "Barbados                      059W32 13N10     -4.00",
+    "file": "barbados_059w32_13n10_4_00"
+  },
+  {
+    "title": "Boa Vista, Roraima, Brazil",
+    "coordinates": "060W40 02N49",
+    "timezone": "-4.00",
+    "option": "Boa Vista, Roraima, Brazil    060W40 02N49     -4.00",
+    "file": "boa_vista_roraima_brazil_060w40_02n49_4_00"
+  },
+  {
+    "title": "Caracas, Venezuela",
+    "coordinates": "066W51 10N25",
+    "timezone": "-4.00",
+    "option": "Caracas, Venezuela            066W51 10N25     -4.00",
+    "file": "caracas_venezuela_066w51_10n25_4_00"
+  },
+  {
+    "title": "Cochabamba, Bolivia",
+    "coordinates": "066W03 17S16",
+    "timezone": "-4.00",
+    "option": "Cochabamba, Bolivia           066W03 17S16     -4.00",
+    "file": "cochabamba_bolivia_066w03_17s16_4_00"
+  },
+  {
+    "title": "Concepcion, Chile",
+    "coordinates": "073W03 36S50",
+    "timezone": "-4.00",
+    "option": "Concepcion, Chile             073W03 36S50     -4.00",
+    "file": "concepcion_chile_073w03_36s50_4_00"
+  },
+  {
+    "title": "La Paz, Bolivia",
+    "coordinates": "068W15 16S20",
+    "timezone": "-4.00",
+    "option": "La Paz, Bolivia               068W15 16S20     -4.00",
+    "file": "la_paz_bolivia_068w15_16s20_4_00"
+  },
+  {
+    "title": "Manaus, Brazil",
+    "coordinates": "060W01 03S08",
+    "timezone": "-4.00",
+    "option": "Manaus, Brazil                060W01 03S08     -4.00",
+    "file": "manaus_brazil_060w01_03s08_4_00"
+  },
+  {
+    "title": "Puerto Rico, USA",
+    "coordinates": "066W30 18N20",
+    "timezone": "-4.00",
+    "option": "Puerto Rico, USA              066W30 18N20     -4.00",
+    "file": "puerto_rico_usa_066w30_18n20_4_00"
+  },
+  {
+    "title": "San Juan, Puerto Rico, USA",
+    "coordinates": "066W06 18N27",
+    "timezone": "-4.00",
+    "option": "San Juan, Puerto Rico, USA    066W06 18N27     -4.00",
+    "file": "san_juan_puerto_rico_usa_066w06_18n27_4_00"
+  },
+  {
+    "title": "Santa Cruz, Bolivia",
+    "coordinates": "063W18 17S45",
+    "timezone": "-4.00",
+    "option": "Santa Cruz, Bolivia           063W18 17S45     -4.00",
+    "file": "santa_cruz_bolivia_063w18_17s45_4_00"
+  },
+  {
+    "title": "Santiago, Chile",
+    "coordinates": "071W00 33S53",
+    "timezone": "-4.00",
+    "option": "Santiago, Chile               071W00 33S53     -4.00",
+    "file": "santiago_chile_071w00_33s53_4_00"
+  },
+  {
+    "title": "Santo Domingo, Dominican Rep.",
+    "coordinates": "069W54 18N28",
+    "timezone": "-4.00",
+    "option": "Santo Domingo, Dominican Rep. 069W54 18N28     -4.00",
+    "file": "santo_domingo_dominican_rep_069w54_18n28_4_00"
+  },
+  {
+    "title": "Trinidad, Trinidad and Tobago",
+    "coordinates": "061W00 11N00",
+    "timezone": "-4.00",
+    "option": "Trinidad, Trinidad and Tobago 061W00 11N00     -4.00",
+    "file": "trinidad_trinidad_and_tobago_061w00_11n00_4_00"
+  }
+]

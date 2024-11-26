@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Abakan, Russia",
+    "coordinates": "091E26 53N43",
+    "timezone": "+7.00",
+    "option": "Abakan, Russia                091E26 53N43     +7.00",
+    "file": "abakan_russia_091e26_53n43_7_00"
+  },
+  {
+    "title": "Achinsk, Russia",
+    "coordinates": "090E30 56N16",
+    "timezone": "+7.00",
+    "option": "Achinsk, Russia               090E30 56N16     +7.00",
+    "file": "achinsk_russia_090e30_56n16_7_00"
+  },
+  {
+    "title": "Bangkok, Thailand",
+    "coordinates": "100E31 13N45",
+    "timezone": "+7.00",
+    "option": "Bangkok, Thailand             100E31 13N45     +7.00",
+    "file": "bangkok_thailand_100e31_13n45_7_00"
+  },
+  {
+    "title": "Bogor, Indonesia",
+    "coordinates": "106E47 06S35",
+    "timezone": "+7.00",
+    "option": "Bogor, Indonesia              106E47 06S35     +7.00",
+    "file": "bogor_indonesia_106e47_06s35_7_00"
+  },
+  {
+    "title": "Hanoi, Vietnam",
+    "coordinates": "105E51 21N02",
+    "timezone": "+7.00",
+    "option": "Hanoi, Vietnam                105E51 21N02     +7.00",
+    "file": "hanoi_vietnam_105e51_21n02_7_00"
+  },
+  {
+    "title": "Jakarta, Indonesia",
+    "coordinates": "106E46 06S10",
+    "timezone": "+7.00",
+    "option": "Jakarta, Indonesia            106E46 06S10     +7.00",
+    "file": "jakarta_indonesia_106e46_06s10_7_00"
+  },
+  {
+    "title": "Jogjakarta, Indonesia",
+    "coordinates": "110E28 07S50",
+    "timezone": "+7.00",
+    "option": "Jogjakarta, Indonesia         110E28 07S50     +7.00",
+    "file": "jogjakarta_indonesia_110e28_07s50_7_00"
+  },
+  {
+    "title": "Kemerovo, Russia",
+    "coordinates": "086E05 55N20",
+    "timezone": "+7.00",
+    "option": "Kemerovo, Russia              086E05 55N20     +7.00",
+    "file": "kemerovo_russia_086e05_55n20_7_00"
+  },
+  {
+    "title": "Krasnoyarsk, Russia",
+    "coordinates": "092E48 56N05",
+    "timezone": "+7.00",
+    "option": "Krasnoyarsk, Russia           092E48 56N05     +7.00",
+    "file": "krasnoyarsk_russia_092e48_56n05_7_00"
+  },
+  {
+    "title": "Kyzyl, Russia",
+    "coordinates": "094E27 51N42",
+    "timezone": "+7.00",
+    "option": "Kyzyl, Russia                 094E27 51N42     +7.00",
+    "file": "kyzyl_russia_094e27_51n42_7_00"
+  },
+  {
+    "title": "Leninsk-Kuznetsky, Russia",
+    "coordinates": "086E10 54N39",
+    "timezone": "+7.00",
+    "option": "Leninsk-Kuznetsky, Russia     086E10 54N39     +7.00",
+    "file": "leninsk_kuznetsky_russia_086e10_54n39_7_00"
+  },
+  {
+    "title": "Novokuznetsk, Russia",
+    "coordinates": "087E05 53N44",
+    "timezone": "+7.00",
+    "option": "Novokuznetsk, Russia          087E05 53N44     +7.00",
+    "file": "novokuznetsk_russia_087e05_53n44_7_00"
+  },
+  {
+    "title": "Novosibirsk, Russia",
+    "coordinates": "083E05 55N00",
+    "timezone": "+7.00",
+    "option": "Novosibirsk, Russia           083E05 55N00     +7.00",
+    "file": "novosibirsk_russia_083e05_55n00_7_00"
+  }
+]

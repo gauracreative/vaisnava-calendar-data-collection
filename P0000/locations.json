@@ -1,0 +1,212 @@
+[
+  {
+    "title": "Abidjan, Ivory Coast",
+    "coordinates": "004W02 05N19",
+    "timezone": "+0.00",
+    "option": "Abidjan, Ivory Coast          004W02 05N19     +0.00",
+    "file": "abidjan_ivory_coast_004w02_05n19_0_00"
+  },
+  {
+    "title": "Accra, Ghana",
+    "coordinates": "000W13 05N33",
+    "timezone": "+0.00",
+    "option": "Accra, Ghana                  000W13 05N33     +0.00",
+    "file": "accra_ghana_000w13_05n33_0_00"
+  },
+  {
+    "title": "Bedford, England, UK",
+    "coordinates": "000W29 52N08",
+    "timezone": "+0.00",
+    "option": "Bedford, England, UK          000W29 52N08     +0.00",
+    "file": "bedford_england_uk_000w29_52n08_0_00"
+  },
+  {
+    "title": "Belfast, Northern Ireland",
+    "coordinates": "005W55 54N35",
+    "timezone": "+0.00",
+    "option": "Belfast, Northern Ireland     005W55 54N35     +0.00",
+    "file": "belfast_northern_ireland_005w55_54n35_0_00"
+  },
+  {
+    "title": "Birmingham, England, UK",
+    "coordinates": "001W50 52N30",
+    "timezone": "+0.00",
+    "option": "Birmingham, England, UK       001W50 52N30     +0.00",
+    "file": "birmingham_england_uk_001w50_52n30_0_00"
+  },
+  {
+    "title": "Bristol, England, UK",
+    "coordinates": "002W35 51N27",
+    "timezone": "+0.00",
+    "option": "Bristol, England, UK          002W35 51N27     +0.00",
+    "file": "bristol_england_uk_002w35_51n27_0_00"
+  },
+  {
+    "title": "Cardiff, Wales, UK",
+    "coordinates": "003W13 51N30",
+    "timezone": "+0.00",
+    "option": "Cardiff, Wales, UK            003W13 51N30     +0.00",
+    "file": "cardiff_wales_uk_003w13_51n30_0_00"
+  },
+  {
+    "title": "Cleethorpes, England, UK",
+    "coordinates": "000W02 53N34",
+    "timezone": "+0.00",
+    "option": "Cleethorpes, England, UK      000W02 53N34     +0.00",
+    "file": "cleethorpes_england_uk_000w02_53n34_0_00"
+  },
+  {
+    "title": "Coventry, England, UK",
+    "coordinates": "001W30 52N25",
+    "timezone": "+0.00",
+    "option": "Coventry, England, UK         001W30 52N25     +0.00",
+    "file": "coventry_england_uk_001w30_52n25_0_00"
+  },
+  {
+    "title": "Derrylin, Northern Ireland",
+    "coordinates": "007W34 54N12",
+    "timezone": "+0.00",
+    "option": "Derrylin, Northern Ireland    007W34 54N12     +0.00",
+    "file": "derrylin_northern_ireland_007w34_54n12_0_00"
+  },
+  {
+    "title": "Dublin, Ireland",
+    "coordinates": "006W20 53N24",
+    "timezone": "+0.00",
+    "option": "Dublin, Ireland               006W20 53N24     +0.00",
+    "file": "dublin_ireland_006w20_53n24_0_00"
+  },
+  {
+    "title": "Freetown, Sierra Leone",
+    "coordinates": "013W15 08N30",
+    "timezone": "+0.00",
+    "option": "Freetown, Sierra Leone        013W15 08N30     +0.00",
+    "file": "freetown_sierra_leone_013w15_08n30_0_00"
+  },
+  {
+    "title": "Galway, Ireland",
+    "coordinates": "009W03 53N16",
+    "timezone": "+0.00",
+    "option": "Galway, Ireland               009W03 53N16     +0.00",
+    "file": "galway_ireland_009w03_53n16_0_00"
+  },
+  {
+    "title": "Glasgow, Scotland, UK",
+    "coordinates": "004W15 55N53",
+    "timezone": "+0.00",
+    "option": "Glasgow, Scotland, UK         004W15 55N53     +0.00",
+    "file": "glasgow_scotland_uk_004w15_55n53_0_00"
+  },
+  {
+    "title": "Leeds, England, UK",
+    "coordinates": "001W33 53N48",
+    "timezone": "+0.00",
+    "option": "Leeds, England, UK            001W33 53N48     +0.00",
+    "file": "leeds_england_uk_001w33_53n48_0_00"
+  },
+  {
+    "title": "Leicester, England, UK",
+    "coordinates": "001W05 52N38",
+    "timezone": "+0.00",
+    "option": "Leicester, England, UK        001W05 52N38     +0.00",
+    "file": "leicester_england_uk_001w05_52n38_0_00"
+  },
+  {
+    "title": "Lisbon, Portugal",
+    "coordinates": "009W08 38N44",
+    "timezone": "+0.00",
+    "option": "Lisbon, Portugal              009W08 38N44     +0.00",
+    "file": "lisbon_portugal_009w08_38n44_0_00"
+  },
+  {
+    "title": "Liverpool, England, UK",
+    "coordinates": "002W55 53N25",
+    "timezone": "+0.00",
+    "option": "Liverpool, England, UK        002W55 53N25     +0.00",
+    "file": "liverpool_england_uk_002w55_53n25_0_00"
+  },
+  {
+    "title": "London, England, UK",
+    "coordinates": "000W10 51N30",
+    "timezone": "+0.00",
+    "option": "London, England, UK           000W10 51N30     +0.00",
+    "file": "london_england_uk_000w10_51n30_0_00"
+  },
+  {
+    "title": "Manchester, England, UK",
+    "coordinates": "002W15 53N30",
+    "timezone": "+0.00",
+    "option": "Manchester, England, UK       002W15 53N30     +0.00",
+    "file": "manchester_england_uk_002w15_53n30_0_00"
+  },
+  {
+    "title": "Newcastle, England, UK",
+    "coordinates": "001W35 54N59",
+    "timezone": "+0.00",
+    "option": "Newcastle, England, UK        001W35 54N59     +0.00",
+    "file": "newcastle_england_uk_001w35_54n59_0_00"
+  },
+  {
+    "title": "Nkawkaw, Ghana",
+    "coordinates": "000W46 06N33",
+    "timezone": "+0.00",
+    "option": "Nkawkaw, Ghana                000W46 06N33     +0.00",
+    "file": "nkawkaw_ghana_000w46_06n33_0_00"
+  },
+  {
+    "title": "Oporto, Portugal",
+    "coordinates": "008W36 41N11",
+    "timezone": "+0.00",
+    "option": "Oporto, Portugal              008W36 41N11     +0.00",
+    "file": "oporto_portugal_008w36_41n11_0_00"
+  },
+  {
+    "title": "Plymouth, England, UK",
+    "coordinates": "004W10 50N23",
+    "timezone": "+0.00",
+    "option": "Plymouth, England, UK         004W10 50N23     +0.00",
+    "file": "plymouth_england_uk_004w10_50n23_0_00"
+  },
+  {
+    "title": "Romford, England, UK",
+    "coordinates": "000E11 51N35",
+    "timezone": "+0.00",
+    "option": "Romford, England, UK          000E11 51N35     +0.00",
+    "file": "romford_england_uk_000e11_51n35_0_00"
+  },
+  {
+    "title": "Santa Cruz de Tenerife, Spain",
+    "coordinates": "016W14 28N28",
+    "timezone": "+0.00",
+    "option": "Santa Cruz de Tenerife, Spain 016W14 28N28     +0.00",
+    "file": "santa_cruz_de_tenerife_spain_016w14_28n28_0_00"
+  },
+  {
+    "title": "Takoradi, Ghana",
+    "coordinates": "001W55 04N58",
+    "timezone": "+0.00",
+    "option": "Takoradi, Ghana               001W55 04N58     +0.00",
+    "file": "takoradi_ghana_001w55_04n58_0_00"
+  },
+  {
+    "title": "Wexford, Ireland",
+    "coordinates": "006W27 52N20",
+    "timezone": "+0.00",
+    "option": "Wexford, Ireland              006W27 52N20     +0.00",
+    "file": "wexford_ireland_006w27_52n20_0_00"
+  },
+  {
+    "title": "Worcester, England, UK",
+    "coordinates": "002W13 52N11",
+    "timezone": "+0.00",
+    "option": "Worcester, England, UK        002W13 52N11     +0.00",
+    "file": "worcester_england_uk_002w13_52n11_0_00"
+  },
+  {
+    "title": "middle, universe",
+    "coordinates": "000W00 00N00",
+    "timezone": "+0.00",
+    "option": "middle, universe              000W00 00N00     +0.00",
+    "file": "middle_universe_000w00_00n00_0_00"
+  }
+]

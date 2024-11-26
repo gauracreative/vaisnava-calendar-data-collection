@@ -1,0 +1,219 @@
+[
+  {
+    "title": "Arcata, California, USA",
+    "coordinates": "124W05 40N52",
+    "timezone": "-8.00",
+    "option": "Arcata, California, USA       124W05 40N52     -8.00",
+    "file": "arcata_california_usa_124w05_40n52_8_00"
+  },
+  {
+    "title": "Ashcroft, B.C., Canada",
+    "coordinates": "121W18 50N49",
+    "timezone": "-8.00",
+    "option": "Ashcroft, B.C., Canada        121W18 50N49     -8.00",
+    "file": "ashcroft_b_c_canada_121w18_50n49_8_00"
+  },
+  {
+    "title": "Ashland, Oregon, USA",
+    "coordinates": "122W43 42N12",
+    "timezone": "-8.00",
+    "option": "Ashland, Oregon, USA          122W43 42N12     -8.00",
+    "file": "ashland_oregon_usa_122w43_42n12_8_00"
+  },
+  {
+    "title": "Badger, California, USA",
+    "coordinates": "119W01 36N38",
+    "timezone": "-8.00",
+    "option": "Badger, California, USA       119W01 36N38     -8.00",
+    "file": "badger_california_usa_119w01_36n38_8_00"
+  },
+  {
+    "title": "Berkeley, California, USA",
+    "coordinates": "122W17 37N52",
+    "timezone": "-8.00",
+    "option": "Berkeley, California, USA     122W17 37N52     -8.00",
+    "file": "berkeley_california_usa_122w17_37n52_8_00"
+  },
+  {
+    "title": "Cobb, California, USA",
+    "coordinates": "122W43 38N49",
+    "timezone": "-8.00",
+    "option": "Cobb, California, USA         122W43 38N49     -8.00",
+    "file": "cobb_california_usa_122w43_38n49_8_00"
+  },
+  {
+    "title": "Corvallis, Oregon, USA",
+    "coordinates": "123W16 44N34",
+    "timezone": "-8.00",
+    "option": "Corvallis, Oregon, USA        123W16 44N34     -8.00",
+    "file": "corvallis_oregon_usa_123w16_44n34_8_00"
+  },
+  {
+    "title": "Davis, California, USA",
+    "coordinates": "121W44 38N33",
+    "timezone": "-8.00",
+    "option": "Davis, California, USA        121W44 38N33     -8.00",
+    "file": "davis_california_usa_121w44_38n33_8_00"
+  },
+  {
+    "title": "Eugene, Oregon, USA",
+    "coordinates": "123W08 44N00",
+    "timezone": "-8.00",
+    "option": "Eugene, Oregon, USA           123W08 44N00     -8.00",
+    "file": "eugene_oregon_usa_123w08_44n00_8_00"
+  },
+  {
+    "title": "Juneau, Alaska, USA",
+    "coordinates": "134W30 58N26",
+    "timezone": "-8.00",
+    "option": "Juneau, Alaska, USA           134W30 58N26     -8.00",
+    "file": "juneau_alaska_usa_134w30_58n26_8_00"
+  },
+  {
+    "title": "Las Vegas, Nevada, USA",
+    "coordinates": "115W08 36N11",
+    "timezone": "-8.00",
+    "option": "Las Vegas, Nevada, USA        115W08 36N11     -8.00",
+    "file": "las_vegas_nevada_usa_115w08_36n11_8_00"
+  },
+  {
+    "title": "Los Angeles, California, USA",
+    "coordinates": "118W12 34N00",
+    "timezone": "-8.00",
+    "option": "Los Angeles, California, USA  118W12 34N00     -8.00",
+    "file": "los_angeles_california_usa_118w12_34n00_8_00"
+  },
+  {
+    "title": "Modesto, California, USA",
+    "coordinates": "121W00 37N38",
+    "timezone": "-8.00",
+    "option": "Modesto, California, USA      121W00 37N38     -8.00",
+    "file": "modesto_california_usa_121w00_37n38_8_00"
+  },
+  {
+    "title": "Mount Shasta, California, USA",
+    "coordinates": "122W19 41N19",
+    "timezone": "-8.00",
+    "option": "Mount Shasta, California, USA 122W19 41N19     -8.00",
+    "file": "mount_shasta_california_usa_122w19_41n19_8_00"
+  },
+  {
+    "title": "Nevada City, California, USA",
+    "coordinates": "121W01 39N16",
+    "timezone": "-8.00",
+    "option": "Nevada City, California, USA  121W01 39N16     -8.00",
+    "file": "nevada_city_california_usa_121w01_39n16_8_00"
+  },
+  {
+    "title": "Palo Alto, California, USA",
+    "coordinates": "122W10 37N28",
+    "timezone": "-8.00",
+    "option": "Palo Alto, California, USA    122W10 37N28     -8.00",
+    "file": "palo_alto_california_usa_122w10_37n28_8_00"
+  },
+  {
+    "title": "Pinehurst, California",
+    "coordinates": "119W01 36N42",
+    "timezone": "-8.00",
+    "option": "Pinehurst, California         119W01 36N42     -8.00",
+    "file": "pinehurst_california_119w01_36n42_8_00"
+  },
+  {
+    "title": "Portland, Oregon, USA",
+    "coordinates": "122W41 45N31",
+    "timezone": "-8.00",
+    "option": "Portland, Oregon, USA         122W41 45N31     -8.00",
+    "file": "portland_oregon_usa_122w41_45n31_8_00"
+  },
+  {
+    "title": "Redding, California, USA",
+    "coordinates": "122W23 40N35",
+    "timezone": "-8.00",
+    "option": "Redding, California, USA      122W23 40N35     -8.00",
+    "file": "redding_california_usa_122w23_40n35_8_00"
+  },
+  {
+    "title": "Sacramento, California, USA",
+    "coordinates": "121W30 38N35",
+    "timezone": "-8.00",
+    "option": "Sacramento, California, USA   121W30 38N35     -8.00",
+    "file": "sacramento_california_usa_121w30_38n35_8_00"
+  },
+  {
+    "title": "Salem, Oregon, USA",
+    "coordinates": "123W02 44N57",
+    "timezone": "-8.00",
+    "option": "Salem, Oregon, USA            123W02 44N57     -8.00",
+    "file": "salem_oregon_usa_123w02_44n57_8_00"
+  },
+  {
+    "title": "San Diego, California, USA",
+    "coordinates": "117W05 32N45",
+    "timezone": "-8.00",
+    "option": "San Diego, California, USA    117W05 32N45     -8.00",
+    "file": "san_diego_california_usa_117w05_32n45_8_00"
+  },
+  {
+    "title": "San Francisco, CA, USA",
+    "coordinates": "122W25 37N46",
+    "timezone": "-8.00",
+    "option": "San Francisco, CA, USA        122W25 37N46     -8.00",
+    "file": "san_francisco_ca_usa_122w25_37n46_8_00"
+  },
+  {
+    "title": "San Jose, California, USA",
+    "coordinates": "121W54 37N20",
+    "timezone": "-8.00",
+    "option": "San Jose, California, USA     121W54 37N20     -8.00",
+    "file": "san_jose_california_usa_121w54_37n20_8_00"
+  },
+  {
+    "title": "Santa Cruz, California, USA",
+    "coordinates": "122W02 36N58",
+    "timezone": "-8.00",
+    "option": "Santa Cruz, California, USA   122W02 36N58     -8.00",
+    "file": "santa_cruz_california_usa_122w02_36n58_8_00"
+  },
+  {
+    "title": "Seattle, Washington, USA",
+    "coordinates": "122W20 47N36",
+    "timezone": "-8.00",
+    "option": "Seattle, Washington, USA      122W20 47N36     -8.00",
+    "file": "seattle_washington_usa_122w20_47n36_8_00"
+  },
+  {
+    "title": "Tijuana, Mexico",
+    "coordinates": "117W01 32N32",
+    "timezone": "-8.00",
+    "option": "Tijuana, Mexico               117W01 32N32     -8.00",
+    "file": "tijuana_mexico_117w01_32n32_8_00"
+  },
+  {
+    "title": "Vancouver, Canada",
+    "coordinates": "122W57 49N08",
+    "timezone": "-8.00",
+    "option": "Vancouver, Canada             122W57 49N08     -8.00",
+    "file": "vancouver_canada_122w57_49n08_8_00"
+  },
+  {
+    "title": "Victoria, Canada",
+    "coordinates": "123W19 48N18",
+    "timezone": "-8.00",
+    "option": "Victoria, Canada              123W19 48N18     -8.00",
+    "file": "victoria_canada_123w19_48n18_8_00"
+  },
+  {
+    "title": "Walla Walla, Washington, USA",
+    "coordinates": "118W18 46N05",
+    "timezone": "-8.00",
+    "option": "Walla Walla, Washington, USA  118W18 46N05     -8.00",
+    "file": "walla_walla_washington_usa_118w18_46n05_8_00"
+  },
+  {
+    "title": "Yucca Valley, California, USA",
+    "coordinates": "116W27 34N07",
+    "timezone": "-8.00",
+    "option": "Yucca Valley, California, USA 116W27 34N07     -8.00",
+    "file": "yucca_valley_california_usa_116w27_34n07_8_00"
+  }
+]

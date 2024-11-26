@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Auckland, New Zealand",
+    "coordinates": "174E41 36S51",
+    "timezone": "+12.00",
+    "option": "Auckland, New Zealand         174E41 36S51    +12.00",
+    "file": "auckland_new_zealand_174e41_36s51_12_00"
+  },
+  {
+    "title": "Christchurch, New Zealand",
+    "coordinates": "172E37 43S32",
+    "timezone": "+12.00",
+    "option": "Christchurch, New Zealand     172E37 43S32    +12.00",
+    "file": "christchurch_new_zealand_172e37_43s32_12_00"
+  },
+  {
+    "title": "Labasa, Fiji",
+    "coordinates": "179E30 16S30",
+    "timezone": "+12.00",
+    "option": "Labasa, Fiji                  179E30 16S30    +12.00",
+    "file": "labasa_fiji_179e30_16s30_12_00"
+  },
+  {
+    "title": "Lautoka, Fiji",
+    "coordinates": "177E28 17S36",
+    "timezone": "+12.00",
+    "option": "Lautoka, Fiji                 177E28 17S36    +12.00",
+    "file": "lautoka_fiji_177e28_17s36_12_00"
+  },
+  {
+    "title": "Suva, Fiji",
+    "coordinates": "178E25 18S08",
+    "timezone": "+12.00",
+    "option": "Suva, Fiji                    178E25 18S08    +12.00",
+    "file": "suva_fiji_178e25_18s08_12_00"
+  },
+  {
+    "title": "Tauranga, New Zealand",
+    "coordinates": "176E10 37S42",
+    "timezone": "+12.00",
+    "option": "Tauranga, New Zealand         176E10 37S42    +12.00",
+    "file": "tauranga_new_zealand_176e10_37s42_12_00"
+  },
+  {
+    "title": "Wellington, New Zealand",
+    "coordinates": "174E46 41S17",
+    "timezone": "+12.00",
+    "option": "Wellington, New Zealand       174E46 41S17    +12.00",
+    "file": "wellington_new_zealand_174e46_41s17_12_00"
+  }
+]

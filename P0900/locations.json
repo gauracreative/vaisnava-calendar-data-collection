@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Chita, Russia",
+    "coordinates": "113E32 51N02",
+    "timezone": "+9.00",
+    "option": "Chita, Russia                 113E32 51N02     +9.00",
+    "file": "chita_russia_113e32_51n02_9_00"
+  },
+  {
+    "title": "Okinawa, Japan",
+    "coordinates": "128E00 27N30",
+    "timezone": "+9.00",
+    "option": "Okinawa, Japan                128E00 27N30     +9.00",
+    "file": "okinawa_japan_128e00_27n30_9_00"
+  },
+  {
+    "title": "Sapporo, Japan",
+    "coordinates": "141E10 43N02",
+    "timezone": "+9.00",
+    "option": "Sapporo, Japan                141E10 43N02     +9.00",
+    "file": "sapporo_japan_141e10_43n02_9_00"
+  },
+  {
+    "title": "Seoul, South Korea",
+    "coordinates": "126E58 37N34",
+    "timezone": "+9.00",
+    "option": "Seoul, South Korea            126E58 37N34     +9.00",
+    "file": "seoul_south_korea_126e58_37n34_9_00"
+  },
+  {
+    "title": "Tokyo, Japan",
+    "coordinates": "139E44 35N42",
+    "timezone": "+9.00",
+    "option": "Tokyo, Japan                  139E44 35N42     +9.00",
+    "file": "tokyo_japan_139e44_35n42_9_00"
+  }
+]
