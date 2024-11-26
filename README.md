@@ -12,6 +12,30 @@ At the root level, you will see folders with names like `N0600`. These represent
 - **"N"** stands for negative (-), i.e., west of Greenwich.
 - **"P"** stands for positive (+), i.e., east of Greenwich.
 
+There will also be `zones.json` file with contents similar to the following example:
+
+```json
+[
+    {
+        "title": "+04:00 Abu Dhabi, Tbilisi, Baku",
+        "pb": "4",
+        "dir": "P0400"
+    },
+    {
+        "title": "+05:00 Chelyabinsk, Ekaterinburg, Ufa",
+        "pb": "5",
+        "dir": "P0500"
+    },
+    {
+        "title": "+05:30 India",
+        "pb": "550",
+        "dir": "P0530"
+    },
+    ...
+]
+
+```
+
 ### Locations
 
 Inside each time zone folder, you will find a file named `locations.json`. This file contains a JSON array of all locations within that time zone. Here's an example of the data format:
@@ -84,7 +108,8 @@ Here's an example of the data structure in a location-specific file:
 
 By using this structure, you can easily fetch and utilize data for your calendar application.
 
-As an example:
+As an **example**:
 
-- If you want to fetch all locations for the `-06:00` time zone, call `/N0600/locations.json`.
-- If you want to get all events for `Sidney, TX` within the zone, call `/N0600/sidney_gopals_texas_usa_098w49_32n01_6_00.json`.
+- If you want to fetch all time zones, call `https://vaisnava-calendar-data-collection.gaura.space/N0600/zones.json`.
+- If you want to fetch all locations for the `-06:00` time zone, call `https://vaisnava-calendar-data-collection.gaura.space/N0600/locations.json`.
+- If you want to get all events for `Sidney, TX` within the zone, call `https://vaisnava-calendar-data-collection.gaura.space/N0600/sidney_gopals_texas_usa_098w49_32n01_6_00.json`.
