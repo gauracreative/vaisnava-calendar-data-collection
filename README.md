@@ -36,6 +36,12 @@ There will also be `zones.json` file with contents similar to the following exam
 
 ```
 
+In the example above:  
+
+- The `dir` value corresponds to the directory name mentioned earlier.
+- The `pb` value represents the option value from the [Pure Bhakti form](https://www.purebhakti.com/resources/vaisnava-calendar).
+- The `title` value is the option label displayed on the [Pure Bhakti form](https://www.purebhakti.com/resources/vaisnava-calendar).
+
 ### Locations
 
 Inside each time zone folder, you will find a file named `locations.json`. This file contains a JSON array of all locations within that time zone. Here's an example of the data format:
