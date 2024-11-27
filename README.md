@@ -61,7 +61,8 @@ Inside each time zone folder, you will find a file named `locations.json`. This 
     "timezone": "-6.00",
     "option": "Chicago, Illinois, USA        087W45 41N53     -6.00",
     "file": "chicago_illinois_usa_087w45_41n53_6_00"
-  }
+  },
+  ...
 ]
 
 ```
@@ -107,7 +108,8 @@ Here's an example of the data structure in a location-specific file:
         "link": "https://www.purebhakti.com/tags/413,336"
       }
     ]
-  }
+  },
+  ...
 ]
 
 ```
@@ -119,3 +121,7 @@ As an **example**:
 - If you want to fetch all time zones, call `https://vaisnava-calendar-data-collection.gaura.space/N0600/zones.json`.
 - If you want to fetch all locations for the `-06:00` time zone, call `https://vaisnava-calendar-data-collection.gaura.space/N0600/locations.json`.
 - If you want to get all events for `Sidney, TX` within the zone, call `https://vaisnava-calendar-data-collection.gaura.space/N0600/sidney_gopals_texas_usa_098w49_32n01_6_00.json`.
+
+### Sample App: Automate Event Reminders
+
+If you're looking for a practical way to utilize the data in this collection, check out the [Vaiṣṇava Calendar Reminder App](https://github.com/gauracreative/vcalapp). This sample app makes it easy to send automated reminders for Vaiṣṇava Calendar events directly to Telegram, showcasing how this data can be integrated into your own applications.
