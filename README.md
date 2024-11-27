@@ -80,7 +80,7 @@ Here's an example of the data structure in a location-specific file:
 ```json
 [
   {
-    "date": "2025-02-15T06:00:00.000Z",
+    "date": "2025-02-15",
     "tithi": "Tritīyā",
     "link": "https://www.purebhakti.com/tags/334",
     "events": [
@@ -91,7 +91,7 @@ Here's an example of the data structure in a location-specific file:
     ]
   },
   {
-    "date": "2025-02-17T06:00:00.000Z",
+    "date": "2025-02-17",
     "tithi": "Pañcamī",
     "link": "https://www.purebhakti.com/tags/336",
     "events": [
